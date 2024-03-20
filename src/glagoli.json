@@ -1,0 +1,2277 @@
+[
+  {
+    "id": "1",
+    "infinitiv": "barvati",
+    "srednjik (prezent 1. lica jednine)": "barvam",
+    "deležnik (particip)": "barval/a",
+    "prevod": "bojiti"
+  },
+  {
+    "id": "2",
+    "infinitiv": "barvati se ",
+    "srednjik (prezent 1. lica jednine)": "barvam se",
+    "deležnik (particip)": "barval/a se",
+    "prevod": "bojiti se"
+  },
+  {
+    "id": "3",
+    "infinitiv": "bati se",
+    "srednjik (prezent 1. lica jednine)": "bojim se",
+    "deležnik (particip)": "bal/a se",
+    "prevod": "bojati se"
+  },
+  {
+    "id": "4",
+    "infinitiv": "biti",
+    "srednjik (prezent 1. lica jednine)": "sem",
+    "deležnik (particip)": "bil/a",
+    "prevod": "biti"
+  },
+  {
+    "id": "5",
+    "infinitiv": "boleti",
+    "srednjik (prezent 1. lica jednine)": "grem",
+    "deležnik (particip)": "bolel/a",
+    "prevod": "boleći"
+  },
+  {
+    "id": "6",
+    "infinitiv": "boriti se",
+    "srednjik (prezent 1. lica jednine)": "borim se",
+    "deležnik (particip)": "boril/a se",
+    "prevod": "boriti se"
+  },
+  {
+    "id": "7",
+    "infinitiv": "brati ",
+    "srednjik (prezent 1. lica jednine)": "berem",
+    "deležnik (particip)": "bral/a",
+    "prevod": "čitati"
+  },
+  {
+    "id": "8",
+    "infinitiv": "brisati ",
+    "srednjik (prezent 1. lica jednine)": "brišem",
+    "deležnik (particip)": "brisal/a",
+    "prevod": "brisati"
+  },
+  {
+    "id": "9",
+    "infinitiv": "bruhati",
+    "srednjik (prezent 1. lica jednine)": "bruham",
+    "deležnik (particip)": "bruhal/a",
+    "prevod": "bljuvati"
+  },
+  {
+    "id": "10",
+    "infinitiv": "čakati",
+    "srednjik (prezent 1. lica jednine)": "čakam",
+    "deležnik (particip)": "čakal/a",
+    "prevod": "čekati"
+  },
+  {
+    "id": "11",
+    "infinitiv": "čistiti",
+    "srednjik (prezent 1. lica jednine)": "čistim",
+    "deležnik (particip)": "čistil/a",
+    "prevod": "čistiti"
+  },
+  {
+    "id": "12",
+    "infinitiv": "čutiti",
+    "srednjik (prezent 1. lica jednine)": "čutim",
+    "deležnik (particip)": "čutil/a",
+    "prevod": "osećati"
+  },
+  {
+    "id": "13",
+    "infinitiv": "dati",
+    "srednjik (prezent 1. lica jednine)": "dam",
+    "deležnik (particip)": "dal/a",
+    "prevod": "davati"
+  },
+  {
+    "id": "14",
+    "infinitiv": "delati",
+    "srednjik (prezent 1. lica jednine)": "delam",
+    "deležnik (particip)": "delal/a",
+    "prevod": "raditi"
+  },
+  {
+    "id": "15",
+    "infinitiv": "deliti si",
+    "srednjik (prezent 1. lica jednine)": "delim si",
+    "deležnik (particip)": "delil/a si",
+    "prevod": "deliti se"
+  },
+  {
+    "id": "16",
+    "infinitiv": "dihati ",
+    "srednjik (prezent 1. lica jednine)": "diham",
+    "deležnik (particip)": "dihal/a",
+    "prevod": "dihati"
+  },
+  {
+    "id": "17",
+    "infinitiv": "dobiti",
+    "srednjik (prezent 1. lica jednine)": "grem",
+    "deležnik (particip)": "dobil/a",
+    "prevod": "dobiti"
+  },
+  {
+    "id": "18",
+    "infinitiv": "dobiti se",
+    "srednjik (prezent 1. lica jednine)": "dobim se",
+    "deležnik (particip)": "dobil/a se",
+    "prevod": "dobiti se"
+  },
+  {
+    "id": "19",
+    "infinitiv": "dodati",
+    "srednjik (prezent 1. lica jednine)": "dodam",
+    "deležnik (particip)": "dodal/a",
+    "prevod": "dodati"
+  },
+  {
+    "id": "20",
+    "infinitiv": "dogovoriti se",
+    "srednjik (prezent 1. lica jednine)": "dogovorim se",
+    "deležnik (particip)": "dogovoril/a se",
+    "prevod": "dogovoriti se"
+  },
+  {
+    "id": "21",
+    "infinitiv": "dopisovati si",
+    "srednjik (prezent 1. lica jednine)": "dopisujem si",
+    "deležnik (particip)": "dopisoval/a si",
+    "prevod": "dopisivati se"
+  },
+  {
+    "id": "22",
+    "infinitiv": "dovoliti",
+    "srednjik (prezent 1. lica jednine)": "dovolim",
+    "deležnik (particip)": "dovolil/a",
+    "prevod": "dopustiti"
+  },
+  {
+    "id": "23",
+    "infinitiv": "drsati",
+    "srednjik (prezent 1. lica jednine)": "drsam",
+    "deležnik (particip)": "drsal/a",
+    "prevod": "klizati"
+  },
+  {
+    "id": "24",
+    "infinitiv": "družiti se",
+    "srednjik (prezent 1. lica jednine)": "družim se",
+    "deležnik (particip)": "družil/a se",
+    "prevod": "družiti se"
+  },
+  {
+    "id": "25",
+    "infinitiv": "dvigniti",
+    "srednjik (prezent 1. lica jednine)": "dvignem",
+    "deležnik (particip)": "dvignil/a",
+    "prevod": "podići"
+  },
+  {
+    "id": "26",
+    "infinitiv": "fotografirati ",
+    "srednjik (prezent 1. lica jednine)": "fotografiram",
+    "deležnik (particip)": "fotografiral/a",
+    "prevod": "fotografisati"
+  },
+  {
+    "id": "27",
+    "infinitiv": "gibati se",
+    "srednjik (prezent 1. lica jednine)": "gibam se",
+    "deležnik (particip)": "gibal/a se",
+    "prevod": "pomerati se"
+  },
+  {
+    "id": "28",
+    "infinitiv": "gledati",
+    "srednjik (prezent 1. lica jednine)": "gledam",
+    "deležnik (particip)": "gledal/a",
+    "prevod": "gledati"
+  },
+  {
+    "id": "29",
+    "infinitiv": "govoriti",
+    "srednjik (prezent 1. lica jednine)": "govorim",
+    "deležnik (particip)": "govoril/a",
+    "prevod": "govoriti"
+  },
+  {
+    "id": "30",
+    "infinitiv": "graditi",
+    "srednjik (prezent 1. lica jednine)": "gradim",
+    "deležnik (particip)": "gradil/a",
+    "prevod": "graditi"
+  },
+  {
+    "id": "31",
+    "infinitiv": "gristi",
+    "srednjik (prezent 1. lica jednine)": "grizem",
+    "deležnik (particip)": "grizel/grizla",
+    "prevod": "gristi"
+  },
+  {
+    "id": "32",
+    "infinitiv": "hoditi",
+    "srednjik (prezent 1. lica jednine)": "hodim",
+    "deležnik (particip)": "hodil/a",
+    "prevod": "hodati"
+  },
+  {
+    "id": "33",
+    "infinitiv": "igrati",
+    "srednjik (prezent 1. lica jednine)": "igram",
+    "deležnik (particip)": "igral/a",
+    "prevod": "igrati"
+  },
+  {
+    "id": "34",
+    "infinitiv": "igrati se",
+    "srednjik (prezent 1. lica jednine)": "igram se",
+    "deležnik (particip)": "igral/a se",
+    "prevod": "igrati se"
+  },
+  {
+    "id": "35",
+    "infinitiv": "imenovati",
+    "srednjik (prezent 1. lica jednine)": "imenujem",
+    "deležnik (particip)": "imenoval/a",
+    "prevod": "imenovati"
+  },
+  {
+    "id": "36",
+    "infinitiv": "imeti",
+    "srednjik (prezent 1. lica jednine)": "imam",
+    "deležnik (particip)": "imel/a",
+    "prevod": "imati"
+  },
+  {
+    "id": "37",
+    "infinitiv": "inštruirati",
+    "srednjik (prezent 1. lica jednine)": "inštruiram",
+    "deležnik (particip)": "inštruiral/a",
+    "prevod": "instruisati"
+  },
+  {
+    "id": "38",
+    "infinitiv": "iskati",
+    "srednjik (prezent 1. lica jednine)": "iščem",
+    "deležnik (particip)": "iskal/a",
+    "prevod": "tražiti"
+  },
+  {
+    "id": "39",
+    "infinitiv": "iti",
+    "srednjik (prezent 1. lica jednine)": "grem",
+    "deležnik (particip)": "šel/šla",
+    "prevod": "ići"
+  },
+  {
+    "id": "40",
+    "infinitiv": "izgledati ",
+    "srednjik (prezent 1. lica jednine)": "izgledam",
+    "deležnik (particip)": "izgledal/a",
+    "prevod": "izgledati"
+  },
+  {
+    "id": "41",
+    "infinitiv": "izključiti",
+    "srednjik (prezent 1. lica jednine)": "izkljućim",
+    "deležnik (particip)": "izključil/a",
+    "prevod": "isključiti"
+  },
+  {
+    "id": "42",
+    "infinitiv": "izklopiti",
+    "srednjik (prezent 1. lica jednine)": "izklopim",
+    "deležnik (particip)": "izklopil/a",
+    "prevod": "isklopiti"
+  },
+  {
+    "id": "43",
+    "infinitiv": "izmeriti",
+    "srednjik (prezent 1. lica jednine)": "izmerim",
+    "deležnik (particip)": "izmeril/a",
+    "prevod": "izmeriti"
+  },
+  {
+    "id": "44",
+    "infinitiv": "izvirati",
+    "srednjik (prezent 1. lica jednine)": "izviram",
+    "deležnik (particip)": "izviral/a",
+    "prevod": "izvirati"
+  },
+  {
+    "id": "45",
+    "infinitiv": "jemati",
+    "srednjik (prezent 1. lica jednine)": "jemljem",
+    "deležnik (particip)": "jemal/a",
+    "prevod": "uzimati"
+  },
+  {
+    "id": "46",
+    "infinitiv": "jesti",
+    "srednjik (prezent 1. lica jednine)": "jedem",
+    "deležnik (particip)": "jedel/jedla",
+    "prevod": "jesti"
+  },
+  {
+    "id": "47",
+    "infinitiv": "jokati",
+    "srednjik (prezent 1. lica jednine)": "jokam",
+    "deležnik (particip)": "jočem/jokal/a",
+    "prevod": "plakati"
+  },
+  {
+    "id": "48",
+    "infinitiv": "kaditi",
+    "srednjik (prezent 1. lica jednine)": "kadim",
+    "deležnik (particip)": "kadil/a",
+    "prevod": "pušiti"
+  },
+  {
+    "id": "49",
+    "infinitiv": "kartati",
+    "srednjik (prezent 1. lica jednine)": "kartam",
+    "deležnik (particip)": "kartal/a",
+    "prevod": "karatati"
+  },
+  {
+    "id": "50",
+    "infinitiv": "kašljati",
+    "srednjik (prezent 1. lica jednine)": "kašljam",
+    "deležnik (particip)": "kašljal/a",
+    "prevod": "kašljati"
+  },
+  {
+    "id": "51",
+    "infinitiv": "kihati",
+    "srednjik (prezent 1. lica jednine)": "kiham",
+    "deležnik (particip)": "kihal/a",
+    "prevod": "kihanje"
+  },
+  {
+    "id": "52",
+    "infinitiv": "kolesariti",
+    "srednjik (prezent 1. lica jednine)": "kolesarim",
+    "deležnik (particip)": "kolesaril/a",
+    "prevod": "voziti bicikl"
+  },
+  {
+    "id": "53",
+    "infinitiv": "končati",
+    "srednjik (prezent 1. lica jednine)": "končam",
+    "deležnik (particip)": "končal/a",
+    "prevod": "završiti"
+  },
+  {
+    "id": "54",
+    "infinitiv": "kopati se",
+    "srednjik (prezent 1. lica jednine)": "kopam se",
+    "deležnik (particip)": "kopal/a se",
+    "prevod": "kopati se"
+  },
+  {
+    "id": "55",
+    "infinitiv": "kuhati",
+    "srednjik (prezent 1. lica jednine)": "kuham",
+    "deležnik (particip)": "kuhal/a",
+    "prevod": "spemati"
+  },
+  {
+    "id": "56",
+    "infinitiv": "kupiti",
+    "srednjik (prezent 1. lica jednine)": "kupim",
+    "deležnik (particip)": "kupil/a",
+    "prevod": "kupiti"
+  },
+  {
+    "id": "57",
+    "infinitiv": "kupovati",
+    "srednjik (prezent 1. lica jednine)": "kupujem",
+    "deležnik (particip)": "kupoval/a",
+    "prevod": "kupovati"
+  },
+  {
+    "id": "58",
+    "infinitiv": "ležati",
+    "srednjik (prezent 1. lica jednine)": "ležim",
+    "deležnik (particip)": "ležal/a",
+    "prevod": "ležati"
+  },
+  {
+    "id": "59",
+    "infinitiv": "likati",
+    "srednjik (prezent 1. lica jednine)": "likam",
+    "deležnik (particip)": "likal/a",
+    "prevod": "peglati"
+  },
+  {
+    "id": "60",
+    "infinitiv": "ločiti se",
+    "srednjik (prezent 1. lica jednine)": "ločim se",
+    "deležnik (particip)": "ločil/a se",
+    "prevod": "rastaviti se"
+  },
+  {
+    "id": "61",
+    "infinitiv": "ločevati ",
+    "srednjik (prezent 1. lica jednine)": "ločujem",
+    "deležnik (particip)": "ličeval/a",
+    "prevod": "rastavljati"
+  },
+  {
+    "id": "62",
+    "infinitiv": "manjkati",
+    "srednjik (prezent 1. lica jednine)": "manjkam",
+    "deležnik (particip)": "manjkal/a",
+    "prevod": "nedostajati"
+  },
+  {
+    "id": "63",
+    "infinitiv": "meditirati",
+    "srednjik (prezent 1. lica jednine)": "meditiram",
+    "deležnik (particip)": "meditiral/a",
+    "prevod": "meditirati"
+  },
+  {
+    "id": "64",
+    "infinitiv": "meriti",
+    "srednjik (prezent 1. lica jednine)": "merim",
+    "deležnik (particip)": "meril/a",
+    "prevod": "meriti"
+  },
+  {
+    "id": "65",
+    "infinitiv": "mešati",
+    "srednjik (prezent 1. lica jednine)": "mešam",
+    "deležnik (particip)": "mašal/a",
+    "prevod": "mešati"
+  },
+  {
+    "id": "66",
+    "infinitiv": "misliti",
+    "srednjik (prezent 1. lica jednine)": "mislim",
+    "deležnik (particip)": "mislil/a",
+    "prevod": "misliti"
+  },
+  {
+    "id": "67",
+    "infinitiv": "motiti",
+    "srednjik (prezent 1. lica jednine)": "motim",
+    "deležnik (particip)": "motil/a",
+    "prevod": "smetati"
+  },
+  {
+    "id": "68",
+    "infinitiv": "nadeti si",
+    "srednjik (prezent 1. lica jednine)": "nadenem si",
+    "deležnik (particip)": "nadel/a si",
+    "prevod": "obući"
+  },
+  {
+    "id": "69",
+    "infinitiv": "nagajati",
+    "srednjik (prezent 1. lica jednine)": "nagajam",
+    "deležnik (particip)": "nagajal/a",
+    "prevod": "nadraživati"
+  },
+  {
+    "id": "70",
+    "infinitiv": "najti",
+    "srednjik (prezent 1. lica jednine)": "najdem",
+    "deležnik (particip)": "našel/našla",
+    "prevod": "naći"
+  },
+  {
+    "id": "71",
+    "infinitiv": "namazati",
+    "srednjik (prezent 1. lica jednine)": "namažem",
+    "deležnik (particip)": "namazal/a",
+    "prevod": "mazati"
+  },
+  {
+    "id": "72",
+    "infinitiv": "napisati",
+    "srednjik (prezent 1. lica jednine)": "napišem",
+    "deležnik (particip)": "napisal/a",
+    "prevod": "napisati"
+  },
+  {
+    "id": "73",
+    "infinitiv": "napolniti",
+    "srednjik (prezent 1. lica jednine)": "napolnim",
+    "deležnik (particip)": "napolnil/a",
+    "prevod": "napuniti"
+  },
+  {
+    "id": "74",
+    "infinitiv": "narediti",
+    "srednjik (prezent 1. lica jednine)": "naredim",
+    "deležnik (particip)": "naredil/a",
+    "prevod": "napraviti"
+  },
+  {
+    "id": "75",
+    "infinitiv": "narezati",
+    "srednjik (prezent 1. lica jednine)": "narežem",
+    "deležnik (particip)": "narezal/a",
+    "prevod": "narezati"
+  },
+  {
+    "id": "76",
+    "infinitiv": "narisati",
+    "srednjik (prezent 1. lica jednine)": "narišem",
+    "deležnik (particip)": "narisal/a",
+    "prevod": "nacrtati"
+  },
+  {
+    "id": "77",
+    "infinitiv": "naročiti",
+    "srednjik (prezent 1. lica jednine)": "naročim",
+    "deležnik (particip)": "naročil/a",
+    "prevod": "rezervisati"
+  },
+  {
+    "id": "78",
+    "infinitiv": "nastati",
+    "srednjik (prezent 1. lica jednine)": "nastane *",
+    "deležnik (particip)": "nastal/a",
+    "prevod": "nastati"
+  },
+  {
+    "id": "79",
+    "infinitiv": "nastopati",
+    "srednjik (prezent 1. lica jednine)": "nastopam",
+    "deležnik (particip)": "nastopal/a",
+    "prevod": "nastupati"
+  },
+  {
+    "id": "80",
+    "infinitiv": "naučiti se",
+    "srednjik (prezent 1. lica jednine)": "naučim se",
+    "deležnik (particip)": "naučil/a se",
+    "prevod": "učiti se"
+  },
+  {
+    "id": "81",
+    "infinitiv": "navaditi se",
+    "srednjik (prezent 1. lica jednine)": "navadim se",
+    "deležnik (particip)": "navadil/a se",
+    "prevod": "navikavati se"
+  },
+  {
+    "id": "82",
+    "infinitiv": "navijati",
+    "srednjik (prezent 1. lica jednine)": "navijam",
+    "deležnik (particip)": "navijal/a",
+    "prevod": "navijati"
+  },
+  {
+    "id": "83",
+    "infinitiv": "nositi",
+    "srednjik (prezent 1. lica jednine)": "nosim",
+    "deležnik (particip)": "nosil/a",
+    "prevod": "nositi"
+  },
+  {
+    "id": "84",
+    "infinitiv": "občudovati ",
+    "srednjik (prezent 1. lica jednine)": "občudujem",
+    "deležnik (particip)": "obćudoval/a",
+    "prevod": "diviti se"
+  },
+  {
+    "id": "85",
+    "infinitiv": "obesiti",
+    "srednjik (prezent 1. lica jednine)": "obesim",
+    "deležnik (particip)": "obesil/a",
+    "prevod": "okačiti"
+  },
+  {
+    "id": "86",
+    "infinitiv": "obešati",
+    "srednjik (prezent 1. lica jednine)": "obešam",
+    "deležnik (particip)": "obešal/a",
+    "prevod": "okačiti"
+  },
+  {
+    "id": "87",
+    "infinitiv": "obiskati",
+    "srednjik (prezent 1. lica jednine)": "obiščem",
+    "deležnik (particip)": "obiskal/a",
+    "prevod": "posetiti"
+  },
+  {
+    "id": "88",
+    "infinitiv": "obiskovati",
+    "srednjik (prezent 1. lica jednine)": "obiskujem",
+    "deležnik (particip)": "obiskoval/a",
+    "prevod": "posećivati"
+  },
+  {
+    "id": "89",
+    "infinitiv": "objavljati",
+    "srednjik (prezent 1. lica jednine)": "objavljam",
+    "deležnik (particip)": "objavil/a",
+    "prevod": "objavljivati"
+  },
+  {
+    "id": "90",
+    "infinitiv": "objeti",
+    "srednjik (prezent 1. lica jednine)": "objamem",
+    "deležnik (particip)": "objel/a",
+    "prevod": "zagrliti"
+  },
+  {
+    "id": "91",
+    "infinitiv": "oblačiti se",
+    "srednjik (prezent 1. lica jednine)": "oblačim se",
+    "deležnik (particip)": "oblačil/a se",
+    "prevod": "oblačiti se"
+  },
+  {
+    "id": "92",
+    "infinitiv": "obleči se",
+    "srednjik (prezent 1. lica jednine)": "oblečem se",
+    "deležnik (particip)": "oblekel/oblekla se",
+    "prevod": "obući se"
+  },
+  {
+    "id": "93",
+    "infinitiv": "obnašati",
+    "srednjik (prezent 1. lica jednine)": "obnašam",
+    "deležnik (particip)": "obnašal/a",
+    "prevod": "ponekad se ponašati"
+  },
+  {
+    "id": "94",
+    "infinitiv": "oboževati",
+    "srednjik (prezent 1. lica jednine)": "obožujem",
+    "deležnik (particip)": "oboževal/a",
+    "prevod": "obožavati"
+  },
+  {
+    "id": "95",
+    "infinitiv": "obrisati",
+    "srednjik (prezent 1. lica jednine)": "obrišem",
+    "deležnik (particip)": "obrisal/a",
+    "prevod": "obrisati"
+  },
+  {
+    "id": "96",
+    "infinitiv": "obupati",
+    "srednjik (prezent 1. lica jednine)": "obupam",
+    "deležnik (particip)": "obupal/a",
+    "prevod": "obeshrabriti se"
+  },
+  {
+    "id": "97",
+    "infinitiv": "obuvati se",
+    "srednjik (prezent 1. lica jednine)": "obuvam se",
+    "deležnik (particip)": "obuval/a se",
+    "prevod": "obuti se"
+  },
+  {
+    "id": "98",
+    "infinitiv": "očistiti",
+    "srednjik (prezent 1. lica jednine)": "očistim",
+    "deležnik (particip)": "očistil/a",
+    "prevod": "očistiti"
+  },
+  {
+    "id": "99",
+    "infinitiv": "odkleniti",
+    "srednjik (prezent 1. lica jednine)": "odklenem",
+    "deležnik (particip)": "odklenil/a",
+    "prevod": "otključati"
+  },
+  {
+    "id": "100",
+    "infinitiv": "odložiti",
+    "srednjik (prezent 1. lica jednine)": "odložim",
+    "deležnik (particip)": "odložil/a",
+    "prevod": "odložiti"
+  },
+  {
+    "id": "101",
+    "infinitiv": "odnesti",
+    "srednjik (prezent 1. lica jednine)": "odnesem",
+    "deležnik (particip)": "odnesel/odnesla",
+    "prevod": "odneti"
+  },
+  {
+    "id": "102",
+    "infinitiv": "odpeljati",
+    "srednjik (prezent 1. lica jednine)": "odpeljem",
+    "deležnik (particip)": "odpeljal/a",
+    "prevod": "odvesti"
+  },
+  {
+    "id": "103",
+    "infinitiv": "odpreti",
+    "srednjik (prezent 1. lica jednine)": "odprem",
+    "deležnik (particip)": "odprl/a",
+    "prevod": "otvoriti"
+  },
+  {
+    "id": "104",
+    "infinitiv": "ogledati si",
+    "srednjik (prezent 1. lica jednine)": "ogledam si",
+    "deležnik (particip)": "ogledal/a si",
+    "prevod": "pogledati"
+  },
+  {
+    "id": "105",
+    "infinitiv": "ohranjati",
+    "srednjik (prezent 1. lica jednine)": "ohranjam",
+    "deležnik (particip)": "ohranjal/a",
+    "prevod": "čuvati"
+  },
+  {
+    "id": "106",
+    "infinitiv": "olupiti ",
+    "srednjik (prezent 1. lica jednine)": "olupim",
+    "deležnik (particip)": "olupil/a",
+    "prevod": "oguliti"
+  },
+  {
+    "id": "107",
+    "infinitiv": "opisati",
+    "srednjik (prezent 1. lica jednine)": "opišem",
+    "deležnik (particip)": "opisal/a",
+    "prevod": "opisati"
+  },
+  {
+    "id": "108",
+    "infinitiv": "oprati",
+    "srednjik (prezent 1. lica jednine)": "operem",
+    "deležnik (particip)": "opral/a",
+    "prevod": "prati"
+  },
+  {
+    "id": "109",
+    "infinitiv": "opravičiti se",
+    "srednjik (prezent 1. lica jednine)": "opravičim se",
+    "deležnik (particip)": "opravičil/a se",
+    "prevod": "izvinuti se"
+  },
+  {
+    "id": "110",
+    "infinitiv": "organizirati ",
+    "srednjik (prezent 1. lica jednine)": "organiziram",
+    "deležnik (particip)": "organiziral/a",
+    "prevod": "organizovati"
+  },
+  {
+    "id": "111",
+    "infinitiv": "ostati",
+    "srednjik (prezent 1. lica jednine)": "ostanem",
+    "deležnik (particip)": "ostal/a",
+    "prevod": "ostati"
+  },
+  {
+    "id": "112",
+    "infinitiv": "pasti",
+    "srednjik (prezent 1. lica jednine)": "padem",
+    "deležnik (particip)": "padel/padla",
+    "prevod": "pasti"
+  },
+  {
+    "id": "113",
+    "infinitiv": "paziti",
+    "srednjik (prezent 1. lica jednine)": "pazim",
+    "deležnik (particip)": "pazil/a",
+    "prevod": "paziti"
+  },
+  {
+    "id": "114",
+    "infinitiv": "peljati ",
+    "srednjik (prezent 1. lica jednine)": "peljem",
+    "deležnik (particip)": "peljal/a",
+    "prevod": "voziti"
+  },
+  {
+    "id": "115",
+    "infinitiv": "peti",
+    "srednjik (prezent 1. lica jednine)": "pojem",
+    "deležnik (particip)": "pel/a",
+    "prevod": "pevati"
+  },
+  {
+    "id": "116",
+    "infinitiv": "pisati",
+    "srednjik (prezent 1. lica jednine)": "pišem",
+    "deležnik (particip)": "pisal/a",
+    "prevod": "pisati"
+  },
+  {
+    "id": "117",
+    "infinitiv": "piti",
+    "srednjik (prezent 1. lica jednine)": "pijem",
+    "deležnik (particip)": "pil/a",
+    "prevod": "piti"
+  },
+  {
+    "id": "118",
+    "infinitiv": "plačati",
+    "srednjik (prezent 1. lica jednine)": "plačam",
+    "deležnik (particip)": "plačal/a",
+    "prevod": "platiti"
+  },
+  {
+    "id": "119",
+    "infinitiv": "plavati",
+    "srednjik (prezent 1. lica jednine)": "plavam",
+    "deležnik (particip)": "plaval/a",
+    "prevod": "plivati"
+  },
+  {
+    "id": "120",
+    "infinitiv": "plesati",
+    "srednjik (prezent 1. lica jednine)": "plešem",
+    "deležnik (particip)": "plesal/a",
+    "prevod": "plešati"
+  },
+  {
+    "id": "121",
+    "infinitiv": "pobirati",
+    "srednjik (prezent 1. lica jednine)": "pobiram",
+    "deležnik (particip)": "pobiral/a",
+    "prevod": "sakupljati"
+  },
+  {
+    "id": "122",
+    "infinitiv": "pobrati",
+    "srednjik (prezent 1. lica jednine)": "poberem",
+    "deležnik (particip)": "pobral/a",
+    "prevod": "ubrati"
+  },
+  {
+    "id": "123",
+    "infinitiv": "pobrisati ",
+    "srednjik (prezent 1. lica jednine)": "pobrišem",
+    "deležnik (particip)": "pobrisal/a",
+    "prevod": "obrisati"
+  },
+  {
+    "id": "124",
+    "infinitiv": "počakati ",
+    "srednjik (prezent 1. lica jednine)": "počakam",
+    "deležnik (particip)": "počakal/a",
+    "prevod": "sačekati"
+  },
+  {
+    "id": "125",
+    "infinitiv": "početi ",
+    "srednjik (prezent 1. lica jednine)": "počnem",
+    "deležnik (particip)": "počel/a",
+    "prevod": "početi"
+  },
+  {
+    "id": "126",
+    "infinitiv": "počivati",
+    "srednjik (prezent 1. lica jednine)": "počivam",
+    "deležnik (particip)": "počival/a",
+    "prevod": "odmarati se"
+  },
+  {
+    "id": "127",
+    "infinitiv": "počutiti se",
+    "srednjik (prezent 1. lica jednine)": "počutim se",
+    "deležnik (particip)": "počutil/a se",
+    "prevod": "očuvati se"
+  },
+  {
+    "id": "128",
+    "infinitiv": "pogledati",
+    "srednjik (prezent 1. lica jednine)": "pogledam",
+    "deležnik (particip)": "pogledal/a",
+    "prevod": "pogledati"
+  },
+  {
+    "id": "129",
+    "infinitiv": "pogovarjati se",
+    "srednjik (prezent 1. lica jednine)": "pogovarjam se",
+    "deležnik (particip)": "pogovarjal/a se",
+    "prevod": "razgovarati se"
+  },
+  {
+    "id": "130",
+    "infinitiv": "pogovoriti se",
+    "srednjik (prezent 1. lica jednine)": "pogovorim se",
+    "deležnik (particip)": "pogovoril/a se",
+    "prevod": "razgovarati se"
+  },
+  {
+    "id": "131",
+    "infinitiv": "pogrešati ",
+    "srednjik (prezent 1. lica jednine)": "pogrešam",
+    "deležnik (particip)": "pogrešal/a",
+    "prevod": "grešiti"
+  },
+  {
+    "id": "132",
+    "infinitiv": "pohvaliti",
+    "srednjik (prezent 1. lica jednine)": "pohvalim",
+    "deležnik (particip)": "pojvalil/a",
+    "prevod": "pohvaliti"
+  },
+  {
+    "id": "133",
+    "infinitiv": "pojesti",
+    "srednjik (prezent 1. lica jednine)": "pojem",
+    "deležnik (particip)": "pojedel/pojedila",
+    "prevod": "pojesti"
+  },
+  {
+    "id": "134",
+    "infinitiv": "poklicati",
+    "srednjik (prezent 1. lica jednine)": "pokličem",
+    "deležnik (particip)": "poklical/a",
+    "prevod": "pozvati"
+  },
+  {
+    "id": "135",
+    "infinitiv": "pokositi",
+    "srednjik (prezent 1. lica jednine)": "pokosim",
+    "deležnik (particip)": "pokosil/a",
+    "prevod": "košiti"
+  },
+  {
+    "id": "136",
+    "infinitiv": "pomagati",
+    "srednjik (prezent 1. lica jednine)": "pomgam",
+    "deležnik (particip)": "pomagal/a",
+    "prevod": "pomoći"
+  },
+  {
+    "id": "137",
+    "infinitiv": "pomagati se",
+    "srednjik (prezent 1. lica jednine)": "pomagam si",
+    "deležnik (particip)": "pomagal/a si",
+    "prevod": "pomagati se"
+  },
+  {
+    "id": "138",
+    "infinitiv": "pomeriti",
+    "srednjik (prezent 1. lica jednine)": "pomerim",
+    "deležnik (particip)": "pomeril/a",
+    "prevod": "pomeriti"
+  },
+  {
+    "id": "139",
+    "infinitiv": "pomesti",
+    "srednjik (prezent 1. lica jednine)": "pometem",
+    "deležnik (particip)": "pometel/pometla",
+    "prevod": "počistiti"
+  },
+  {
+    "id": "140",
+    "infinitiv": "popiti",
+    "srednjik (prezent 1. lica jednine)": "popijem",
+    "deležnik (particip)": "popil/a",
+    "prevod": "popiti"
+  },
+  {
+    "id": "141",
+    "infinitiv": "popraviti",
+    "srednjik (prezent 1. lica jednine)": "popravim",
+    "deležnik (particip)": "popravil/a",
+    "prevod": "popraviti"
+  },
+  {
+    "id": "142",
+    "infinitiv": "popravljati",
+    "srednjik (prezent 1. lica jednine)": "popravljam",
+    "deležnik (particip)": "popravljal/a",
+    "prevod": "popravljati"
+  },
+  {
+    "id": "143",
+    "infinitiv": "porabiti",
+    "srednjik (prezent 1. lica jednine)": "porabim",
+    "deležnik (particip)": "porabil/a",
+    "prevod": "potrošiti"
+  },
+  {
+    "id": "144",
+    "infinitiv": "poročiti se",
+    "srednjik (prezent 1. lica jednine)": "poročim se",
+    "deležnik (particip)": "poročil/a se",
+    "prevod": "venčati se"
+  },
+  {
+    "id": "145",
+    "infinitiv": "posaditi",
+    "srednjik (prezent 1. lica jednine)": "posadim",
+    "deležnik (particip)": "posadil/a",
+    "prevod": "posaditi"
+  },
+  {
+    "id": "146",
+    "infinitiv": "posesati",
+    "srednjik (prezent 1. lica jednine)": "posesam",
+    "deležnik (particip)": "posesal/a",
+    "prevod": "usisavati"
+  },
+  {
+    "id": "147",
+    "infinitiv": "poskrbeti",
+    "srednjik (prezent 1. lica jednine)": "poskrbim",
+    "deležnik (particip)": "poskrbel/a",
+    "prevod": "pobrinuti se"
+  },
+  {
+    "id": "148",
+    "infinitiv": "poskusiti",
+    "srednjik (prezent 1. lica jednine)": "poskusim",
+    "deležnik (particip)": "poskusil/a",
+    "prevod": "pokušati"
+  },
+  {
+    "id": "149",
+    "infinitiv": "poslati",
+    "srednjik (prezent 1. lica jednine)": "pošljem",
+    "deležnik (particip)": "poslal/a",
+    "prevod": "poslati"
+  },
+  {
+    "id": "150",
+    "infinitiv": "poslušati",
+    "srednjik (prezent 1. lica jednine)": "poslušam",
+    "deležnik (particip)": "poslušal/a",
+    "prevod": "slušati"
+  },
+  {
+    "id": "151",
+    "infinitiv": "posoditi",
+    "srednjik (prezent 1. lica jednine)": "posodim",
+    "deležnik (particip)": "posodil/a",
+    "prevod": "pozajmiti"
+  },
+  {
+    "id": "152",
+    "infinitiv": "pospraviti",
+    "srednjik (prezent 1. lica jednine)": "pospravim",
+    "deležnik (particip)": "pospravil/a",
+    "prevod": "spremiti"
+  },
+  {
+    "id": "153",
+    "infinitiv": "pospravljati",
+    "srednjik (prezent 1. lica jednine)": "pospravljam",
+    "deležnik (particip)": "pospravljal/a",
+    "prevod": "spremati"
+  },
+  {
+    "id": "154",
+    "infinitiv": "pospremiti",
+    "srednjik (prezent 1. lica jednine)": "pospremim",
+    "deležnik (particip)": "pospremil/a",
+    "prevod": "pospremiti"
+  },
+  {
+    "id": "155",
+    "infinitiv": "postajati",
+    "srednjik (prezent 1. lica jednine)": "postajam",
+    "deležnik (particip)": "postajal/a",
+    "prevod": "postati"
+  },
+  {
+    "id": "156",
+    "infinitiv": "postati",
+    "srednjik (prezent 1. lica jednine)": "postanem",
+    "deležnik (particip)": "postal/a",
+    "prevod": "postati"
+  },
+  {
+    "id": "157",
+    "infinitiv": "postaviti",
+    "srednjik (prezent 1. lica jednine)": "postavim",
+    "deležnik (particip)": "postavil/a",
+    "prevod": "postaviti"
+  },
+  {
+    "id": "158",
+    "infinitiv": "postreči",
+    "srednjik (prezent 1. lica jednine)": "postrežem",
+    "deležnik (particip)": "postregel/postregla",
+    "prevod": "poslužiti"
+  },
+  {
+    "id": "159",
+    "infinitiv": "posvečati",
+    "srednjik (prezent 1. lica jednine)": "posvečam",
+    "deležnik (particip)": "posvečal/a",
+    "prevod": "posvetiti"
+  },
+  {
+    "id": "160",
+    "infinitiv": "pošiljati",
+    "srednjik (prezent 1. lica jednine)": "pošiljam",
+    "deležnik (particip)": "pošiljal/a",
+    "prevod": "slati"
+  },
+  {
+    "id": "161",
+    "infinitiv": "potekati",
+    "srednjik (prezent 1. lica jednine)": "poteka *",
+    "deležnik (particip)": "potekal/a",
+    "prevod": "tekati"
+  },
+  {
+    "id": "162",
+    "infinitiv": "potrebovati",
+    "srednjik (prezent 1. lica jednine)": "potrebujem",
+    "deležnik (particip)": "potreboval/a",
+    "prevod": "trebati"
+  },
+  {
+    "id": "163",
+    "infinitiv": "potrkati",
+    "srednjik (prezent 1. lica jednine)": "potrkam",
+    "deležnik (particip)": "potkral/a",
+    "prevod": "zakucati"
+  },
+  {
+    "id": "164",
+    "infinitiv": "potruditi se",
+    "srednjik (prezent 1. lica jednine)": "potrudim se",
+    "deležnik (particip)": "potrudil/a se",
+    "prevod": "potruditi se"
+  },
+  {
+    "id": "165",
+    "infinitiv": "povabiti",
+    "srednjik (prezent 1. lica jednine)": "povabim",
+    "deležnik (particip)": "povabil/a",
+    "prevod": "povabiti"
+  },
+  {
+    "id": "166",
+    "infinitiv": "povedati",
+    "srednjik (prezent 1. lica jednine)": "povem",
+    "deležnik (particip)": "povedal/a",
+    "prevod": "reći"
+  },
+  {
+    "id": "167",
+    "infinitiv": "povzročati",
+    "srednjik (prezent 1. lica jednine)": "povzročam",
+    "deležnik (particip)": "povzročal/a",
+    "prevod": "povzročiti"
+  },
+  {
+    "id": "168",
+    "infinitiv": "pozabiti",
+    "srednjik (prezent 1. lica jednine)": "pozabim",
+    "deležnik (particip)": "pozabil/a",
+    "prevod": "zaboraviti"
+  },
+  {
+    "id": "169",
+    "infinitiv": "pozdraviti",
+    "srednjik (prezent 1. lica jednine)": "pozdravim",
+    "deležnik (particip)": "pozdravil/a",
+    "prevod": "pozdraviti"
+  },
+  {
+    "id": "170",
+    "infinitiv": "pozdraviti se",
+    "srednjik (prezent 1. lica jednine)": "pozdravim se",
+    "deležnik (particip)": "pozdravil/a se",
+    "prevod": ""
+  },
+  {
+    "id": "171",
+    "infinitiv": "poznati",
+    "srednjik (prezent 1. lica jednine)": "poznam",
+    "deležnik (particip)": "poznal/a",
+    "prevod": "poznati"
+  },
+  {
+    "id": "172",
+    "infinitiv": "prati",
+    "srednjik (prezent 1. lica jednine)": "perem",
+    "deležnik (particip)": "pral/a",
+    "prevod": "prati"
+  },
+  {
+    "id": "173",
+    "infinitiv": "praznovati",
+    "srednjik (prezent 1. lica jednine)": "praznujem",
+    "deležnik (particip)": "praznoval/a",
+    "prevod": "proslaviti"
+  },
+  {
+    "id": "174",
+    "infinitiv": "prebarvati",
+    "srednjik (prezent 1. lica jednine)": "prebarvam",
+    "deležnik (particip)": "prebarval/a",
+    "prevod": "prebojiti"
+  },
+  {
+    "id": "175",
+    "infinitiv": "prebrati",
+    "srednjik (prezent 1. lica jednine)": "preberem",
+    "deležnik (particip)": "prebral/a",
+    "prevod": "pročitati"
+  },
+  {
+    "id": "176",
+    "infinitiv": "predlagati",
+    "srednjik (prezent 1. lica jednine)": "predlagam",
+    "deležnik (particip)": "predlagal/a",
+    "prevod": "predložiti"
+  },
+  {
+    "id": "177",
+    "infinitiv": "predstaviti",
+    "srednjik (prezent 1. lica jednine)": "predstavim",
+    "deležnik (particip)": "predstavil/a",
+    "prevod": "predstaviti"
+  },
+  {
+    "id": "178",
+    "infinitiv": "predstavljati ",
+    "srednjik (prezent 1. lica jednine)": "predstavljam",
+    "deležnik (particip)": "predstavčkač/a",
+    "prevod": "predstaviti"
+  },
+  {
+    "id": "179",
+    "infinitiv": "pregledati",
+    "srednjik (prezent 1. lica jednine)": "pregledam",
+    "deležnik (particip)": "pregledal/a",
+    "prevod": "pregledati"
+  },
+  {
+    "id": "180",
+    "infinitiv": "prehranjevati se",
+    "srednjik (prezent 1. lica jednine)": "prehranjujem se",
+    "deležnik (particip)": "prehranjeval/a se",
+    "prevod": "hraniti se"
+  },
+  {
+    "id": "181",
+    "infinitiv": "premešati ",
+    "srednjik (prezent 1. lica jednine)": "premešam",
+    "deležnik (particip)": "premešal/a",
+    "prevod": "promešati"
+  },
+  {
+    "id": "182",
+    "infinitiv": "preobleči",
+    "srednjik (prezent 1. lica jednine)": "preoblečem",
+    "deležnik (particip)": "preoblekel/preoblekla",
+    "prevod": "presvući"
+  },
+  {
+    "id": "183",
+    "infinitiv": "preseliti se",
+    "srednjik (prezent 1. lica jednine)": "preselim se",
+    "deležnik (particip)": "preselil/a se",
+    "prevod": "preseliti se"
+  },
+  {
+    "id": "184",
+    "infinitiv": "prestaviti",
+    "srednjik (prezent 1. lica jednine)": "prestavim",
+    "deležnik (particip)": "prestavil/a",
+    "prevod": "premestiti"
+  },
+  {
+    "id": "185",
+    "infinitiv": "presti",
+    "srednjik (prezent 1. lica jednine)": "predem",
+    "deležnik (particip)": "predel/predla",
+    "prevod": "preduzeti"
+  },
+  {
+    "id": "186",
+    "infinitiv": "preživeti",
+    "srednjik (prezent 1. lica jednine)": "preživim",
+    "deležnik (particip)": "preživel/a",
+    "prevod": "preživeti"
+  },
+  {
+    "id": "187",
+    "infinitiv": "prihajati",
+    "srednjik (prezent 1. lica jednine)": "prihajam",
+    "deležnik (particip)": "prihajal/a",
+    "prevod": "dolaziti"
+  },
+  {
+    "id": "188",
+    "infinitiv": "prinesti",
+    "srednjik (prezent 1. lica jednine)": "prinesem",
+    "deležnik (particip)": "prinesel/prinesla",
+    "prevod": "doneti"
+  },
+  {
+    "id": "189",
+    "infinitiv": "pripeljati",
+    "srednjik (prezent 1. lica jednine)": "pripeljem",
+    "deležnik (particip)": "pripeljal/a",
+    "prevod": "dovesti"
+  },
+  {
+    "id": "190",
+    "infinitiv": "priporočati",
+    "srednjik (prezent 1. lica jednine)": "priporočam",
+    "deležnik (particip)": "priporočal/a",
+    "prevod": "preporučiti"
+  },
+  {
+    "id": "191",
+    "infinitiv": "pripovedovati",
+    "srednjik (prezent 1. lica jednine)": "pripovedujem",
+    "deležnik (particip)": "pripovedoval/a",
+    "prevod": "pričati"
+  },
+  {
+    "id": "192",
+    "infinitiv": "pripraviti",
+    "srednjik (prezent 1. lica jednine)": "pripravim",
+    "deležnik (particip)": "pripravil/a",
+    "prevod": "pripremiti"
+  },
+  {
+    "id": "193",
+    "infinitiv": "pripravljati",
+    "srednjik (prezent 1. lica jednine)": "pripravljam",
+    "deležnik (particip)": "pripravljal/a",
+    "prevod": "pripremati"
+  },
+  {
+    "id": "194",
+    "infinitiv": "prišiti ",
+    "srednjik (prezent 1. lica jednine)": "prišijem",
+    "deležnik (particip)": "prišil/a",
+    "prevod": "prišiti"
+  },
+  {
+    "id": "195",
+    "infinitiv": "priti",
+    "srednjik (prezent 1. lica jednine)": "pridem",
+    "deležnik (particip)": "prišel/prišla",
+    "prevod": "doći"
+  },
+  {
+    "id": "196",
+    "infinitiv": "prižgati",
+    "srednjik (prezent 1. lica jednine)": "prižgem",
+    "deležnik (particip)": "prižgal/a",
+    "prevod": "upaliti"
+  },
+  {
+    "id": "197",
+    "infinitiv": "prositi",
+    "srednjik (prezent 1. lica jednine)": "prosim",
+    "deležnik (particip)": "prosil/a",
+    "prevod": "moliti"
+  },
+  {
+    "id": "198",
+    "infinitiv": "pustiti",
+    "srednjik (prezent 1. lica jednine)": "pustim",
+    "deležnik (particip)": "pustil/a",
+    "prevod": "ostaviti"
+  },
+  {
+    "id": "199",
+    "infinitiv": "puščati",
+    "srednjik (prezent 1. lica jednine)": "puščam",
+    "deležnik (particip)": "puščal/a",
+    "prevod": "puštati"
+  },
+  {
+    "id": "200",
+    "infinitiv": "računati",
+    "srednjik (prezent 1. lica jednine)": "računam",
+    "deležnik (particip)": "računal/a",
+    "prevod": "računati"
+  },
+  {
+    "id": "201",
+    "infinitiv": "rasti",
+    "srednjik (prezent 1. lica jednine)": "rastem",
+    "deležnik (particip)": "rastel/rastla",
+    "prevod": "rasti"
+  },
+  {
+    "id": "202",
+    "infinitiv": "razlagati",
+    "srednjik (prezent 1. lica jednine)": "razlagam",
+    "deležnik (particip)": "razlagal/a",
+    "prevod": "objašnjavati"
+  },
+  {
+    "id": "203",
+    "infinitiv": "razmišljati",
+    "srednjik (prezent 1. lica jednine)": "razmišljam",
+    "deležnik (particip)": "razmišljal/a",
+    "prevod": "razmišljati"
+  },
+  {
+    "id": "204",
+    "infinitiv": "razporediti",
+    "srednjik (prezent 1. lica jednine)": "razporedim",
+    "deležnik (particip)": "razporedil/a",
+    "prevod": "rasporediti"
+  },
+  {
+    "id": "205",
+    "infinitiv": "razumeti se",
+    "srednjik (prezent 1. lica jednine)": "razumem se",
+    "deležnik (particip)": "razumel/a se",
+    "prevod": "razumeti se"
+  },
+  {
+    "id": "206",
+    "infinitiv": "razvajati",
+    "srednjik (prezent 1. lica jednine)": "razvajam",
+    "deležnik (particip)": "razvajal/a",
+    "prevod": "razmaziti"
+  },
+  {
+    "id": "207",
+    "infinitiv": "reči ",
+    "srednjik (prezent 1. lica jednine)": "rečem",
+    "deležnik (particip)": "rekel/rekla",
+    "prevod": "reći"
+  },
+  {
+    "id": "208",
+    "infinitiv": "reševati",
+    "srednjik (prezent 1. lica jednine)": "rešujem",
+    "deležnik (particip)": "reševal/a",
+    "prevod": "rešavati"
+  },
+  {
+    "id": "209",
+    "infinitiv": "rezati",
+    "srednjik (prezent 1. lica jednine)": "režem",
+    "deležnik (particip)": "rezal/a",
+    "prevod": "rezati"
+  },
+  {
+    "id": "210",
+    "infinitiv": "risati",
+    "srednjik (prezent 1. lica jednine)": "rišem",
+    "deležnik (particip)": "risal/a",
+    "prevod": "crtati"
+  },
+  {
+    "id": "211",
+    "infinitiv": "roditi se",
+    "srednjik (prezent 1. lica jednine)": "rodim se",
+    "deležnik (particip)": "rodil/a se",
+    "prevod": "roditi se"
+  },
+  {
+    "id": "212",
+    "infinitiv": "rolati",
+    "srednjik (prezent 1. lica jednine)": "rolam",
+    "deležnik (particip)": "rolal/a",
+    "prevod": "rolati"
+  },
+  {
+    "id": "213",
+    "infinitiv": "sanjati",
+    "srednjik (prezent 1. lica jednine)": "sanjam",
+    "deležnik (particip)": "sanjal/a",
+    "prevod": "sanjati"
+  },
+  {
+    "id": "214",
+    "infinitiv": "sedeti ",
+    "srednjik (prezent 1. lica jednine)": "sedim",
+    "deležnik (particip)": "sedel/a",
+    "prevod": "sedeti"
+  },
+  {
+    "id": "215",
+    "infinitiv": "seliti se",
+    "srednjik (prezent 1. lica jednine)": "selim se",
+    "deležnik (particip)": "selil/a se",
+    "prevod": "seliti se"
+  },
+  {
+    "id": "216",
+    "infinitiv": "skrbeti",
+    "srednjik (prezent 1. lica jednine)": "skrbim",
+    "deležnik (particip)": "skrbgiel/a",
+    "prevod": "brinuti"
+  },
+  {
+    "id": "217",
+    "infinitiv": "skregati se",
+    "srednjik (prezent 1. lica jednine)": "skregam se",
+    "deležnik (particip)": "skregal/a se",
+    "prevod": "posvađati se"
+  },
+  {
+    "id": "218",
+    "infinitiv": "skuhati",
+    "srednjik (prezent 1. lica jednine)": "skuham",
+    "deležnik (particip)": "skuhal/a",
+    "prevod": "skuvati"
+  },
+  {
+    "id": "219",
+    "infinitiv": "sleči",
+    "srednjik (prezent 1. lica jednine)": "slečem",
+    "deležnik (particip)": "slekel/slekla",
+    "prevod": "svući"
+  },
+  {
+    "id": "220",
+    "infinitiv": "sleči se",
+    "srednjik (prezent 1. lica jednine)": "slečem se",
+    "deležnik (particip)": "slekel/slekla se",
+    "prevod": "svući se"
+  },
+  {
+    "id": "221",
+    "infinitiv": "slišati ",
+    "srednjik (prezent 1. lica jednine)": "slišim",
+    "deležnik (particip)": "slišal/a",
+    "prevod": "čuti"
+  },
+  {
+    "id": "222",
+    "infinitiv": "smejati se",
+    "srednjik (prezent 1. lica jednine)": "smejem se",
+    "deležnik (particip)": "smejal/a se",
+    "prevod": "smejati se"
+  },
+  {
+    "id": "223",
+    "infinitiv": "smeti ",
+    "srednjik (prezent 1. lica jednine)": "smem",
+    "deležnik (particip)": "smel/a",
+    "prevod": "smeti"
+  },
+  {
+    "id": "224",
+    "infinitiv": "smrkati",
+    "srednjik (prezent 1. lica jednine)": "smrkam",
+    "deležnik (particip)": "smrkal/a",
+    "prevod": "smrkati"
+  },
+  {
+    "id": "225",
+    "infinitiv": "smučati",
+    "srednjik (prezent 1. lica jednine)": "smučam",
+    "deležnik (particip)": "smučal/a",
+    "prevod": "skijati"
+  },
+  {
+    "id": "226",
+    "infinitiv": "snemati ",
+    "srednjik (prezent 1. lica jednine)": "snemam",
+    "deležnik (particip)": "snemal/a",
+    "prevod": "snimati"
+  },
+  {
+    "id": "227",
+    "infinitiv": "sončiti se",
+    "srednjik (prezent 1. lica jednine)": "sončim se",
+    "deležnik (particip)": "sončil/a se",
+    "prevod": "sunčati se"
+  },
+  {
+    "id": "228",
+    "infinitiv": "spati ",
+    "srednjik (prezent 1. lica jednine)": "spim",
+    "deležnik (particip)": "spal/a",
+    "prevod": "spavati"
+  },
+  {
+    "id": "229",
+    "infinitiv": "speči",
+    "srednjik (prezent 1. lica jednine)": "spečem",
+    "deležnik (particip)": "spekel/spekla",
+    "prevod": "ispeći"
+  },
+  {
+    "id": "230",
+    "infinitiv": "spiti",
+    "srednjik (prezent 1. lica jednine)": "spijem",
+    "deležnik (particip)": "spil/a",
+    "prevod": "popiti"
+  },
+  {
+    "id": "231",
+    "infinitiv": "spominjati",
+    "srednjik (prezent 1. lica jednine)": "spominjam",
+    "deležnik (particip)": "spominjal/a",
+    "prevod": "spominjati"
+  },
+  {
+    "id": "232",
+    "infinitiv": "spoznati",
+    "srednjik (prezent 1. lica jednine)": "spoznam",
+    "deležnik (particip)": "spoznal/a",
+    "prevod": "upoznati"
+  },
+  {
+    "id": "233",
+    "infinitiv": "spraviti",
+    "srednjik (prezent 1. lica jednine)": "spravim",
+    "deležnik (particip)": "spravil/a",
+    "prevod": "smestiti"
+  },
+  {
+    "id": "234",
+    "infinitiv": "sprehajati se",
+    "srednjik (prezent 1. lica jednine)": "sprehajam se",
+    "deležnik (particip)": "sprehajal/a se",
+    "prevod": "šetati se"
+  },
+  {
+    "id": "235",
+    "infinitiv": "spremeniti",
+    "srednjik (prezent 1. lica jednine)": "spremenim",
+    "deležnik (particip)": "spremenil/a",
+    "prevod": "promeniti"
+  },
+  {
+    "id": "236",
+    "infinitiv": "spremeniti se",
+    "srednjik (prezent 1. lica jednine)": "spremenim se",
+    "deležnik (particip)": "spremenil/a se",
+    "prevod": "promeniti se"
+  },
+  {
+    "id": "237",
+    "infinitiv": "srbeti",
+    "srednjik (prezent 1. lica jednine)": "srbi",
+    "deležnik (particip)": "srbel/a",
+    "prevod": "svrbeti"
+  },
+  {
+    "id": "238",
+    "infinitiv": "srečati",
+    "srednjik (prezent 1. lica jednine)": "srečam",
+    "deležnik (particip)": "srečal/a",
+    "prevod": "sresti"
+  },
+  {
+    "id": "239",
+    "infinitiv": "srečati se",
+    "srednjik (prezent 1. lica jednine)": "srečam se",
+    "deležnik (particip)": "srečal/a se",
+    "prevod": "sresti se"
+  },
+  {
+    "id": "240",
+    "infinitiv": "stanovati",
+    "srednjik (prezent 1. lica jednine)": "stanujem",
+    "deležnik (particip)": "stanoval/a",
+    "prevod": "stanovati"
+  },
+  {
+    "id": "241",
+    "infinitiv": "stati",
+    "srednjik (prezent 1. lica jednine)": "stojim",
+    "deležnik (particip)": "stal/a",
+    "prevod": "stati"
+  },
+  {
+    "id": "242",
+    "infinitiv": "striči",
+    "srednjik (prezent 1. lica jednine)": "strižem",
+    "deležnik (particip)": "strigel/strigla",
+    "prevod": "šišati"
+  },
+  {
+    "id": "243",
+    "infinitiv": "strinjati se",
+    "srednjik (prezent 1. lica jednine)": "strinjam se",
+    "deležnik (particip)": "strinal/a se",
+    "prevod": "složiti se"
+  },
+  {
+    "id": "244",
+    "infinitiv": "sušiti ",
+    "srednjik (prezent 1. lica jednine)": "sušim",
+    "deležnik (particip)": "sušil/a",
+    "prevod": "sušiti"
+  },
+  {
+    "id": "245",
+    "infinitiv": "svetovati ",
+    "srednjik (prezent 1. lica jednine)": "svetujem",
+    "deležnik (particip)": "svetoval/a",
+    "prevod": "savetovati"
+  },
+  {
+    "id": "246",
+    "infinitiv": "šminkati se",
+    "srednjik (prezent 1. lica jednine)": "šminkam se",
+    "deležnik (particip)": "šminkal/a se",
+    "prevod": "šminkati se"
+  },
+  {
+    "id": "247",
+    "infinitiv": "študirati",
+    "srednjik (prezent 1. lica jednine)": "študiram",
+    "deležnik (particip)": "študiral/a",
+    "prevod": "studirati"
+  },
+  {
+    "id": "248",
+    "infinitiv": "teči ",
+    "srednjik (prezent 1. lica jednine)": "tečem",
+    "deležnik (particip)": "tekel/tekla",
+    "prevod": "trčati"
+  },
+  {
+    "id": "249",
+    "infinitiv": "teči ",
+    "srednjik (prezent 1. lica jednine)": "teče",
+    "deležnik (particip)": "tekel/tekla",
+    "prevod": "teći"
+  },
+  {
+    "id": "250",
+    "infinitiv": "tehtati",
+    "srednjik (prezent 1. lica jednine)": "tehtam",
+    "deležnik (particip)": "tehtal/a",
+    "prevod": "vagati"
+  },
+  {
+    "id": "251",
+    "infinitiv": "tekmovati",
+    "srednjik (prezent 1. lica jednine)": "tekmujem",
+    "deležnik (particip)": "tekmoval/a",
+    "prevod": "takmičiti se"
+  },
+  {
+    "id": "252",
+    "infinitiv": "telefonirati",
+    "srednjik (prezent 1. lica jednine)": "telefoniram",
+    "deležnik (particip)": "telefoniral/a",
+    "prevod": "telefonirati"
+  },
+  {
+    "id": "253",
+    "infinitiv": "telovaditi",
+    "srednjik (prezent 1. lica jednine)": "telovadim",
+    "deležnik (particip)": "telovadil/a",
+    "prevod": "vežbati"
+  },
+  {
+    "id": "254",
+    "infinitiv": "težiti",
+    "srednjik (prezent 1. lica jednine)": "težim",
+    "deležnik (particip)": "težil/a",
+    "prevod": "težiti"
+  },
+  {
+    "id": "255",
+    "infinitiv": "trajati",
+    "srednjik (prezent 1. lica jednine)": "traja",
+    "deležnik (particip)": "trajal/a",
+    "prevod": "trajati"
+  },
+  {
+    "id": "256",
+    "infinitiv": "trenirati",
+    "srednjik (prezent 1. lica jednine)": "treniram",
+    "deležnik (particip)": "treniral/a",
+    "prevod": "trenirati"
+  },
+  {
+    "id": "257",
+    "infinitiv": "tuširati se",
+    "srednjik (prezent 1. lica jednine)": "tuširam se",
+    "deležnik (particip)": "tuširal/a se",
+    "prevod": "tuširati se"
+  },
+  {
+    "id": "258",
+    "infinitiv": "učiti se",
+    "srednjik (prezent 1. lica jednine)": "učim se",
+    "deležnik (particip)": "učil/a se",
+    "prevod": "učiti se"
+  },
+  {
+    "id": "259",
+    "infinitiv": "uganiti",
+    "srednjik (prezent 1. lica jednine)": "uganem",
+    "deležnik (particip)": "uganil/a",
+    "prevod": "pogoditi"
+  },
+  {
+    "id": "260",
+    "infinitiv": "ugasniti",
+    "srednjik (prezent 1. lica jednine)": "ugasnem",
+    "deležnik (particip)": "ugasnil/a",
+    "prevod": "ugasiti"
+  },
+  {
+    "id": "261",
+    "infinitiv": "ugotoviti",
+    "srednjik (prezent 1. lica jednine)": "ugotovim",
+    "deležnik (particip)": "ugotovil/a",
+    "prevod": "utvrditi"
+  },
+  {
+    "id": "262",
+    "infinitiv": "ukvarjati se",
+    "srednjik (prezent 1. lica jednine)": "ukvarjam se",
+    "deležnik (particip)": "ukvarjal/a se",
+    "prevod": "baviti se"
+  },
+  {
+    "id": "263",
+    "infinitiv": "uleči se",
+    "srednjik (prezent 1. lica jednine)": "uležem se",
+    "deležnik (particip)": "ulegel/ulegla se",
+    "prevod": "leći se"
+  },
+  {
+    "id": "264",
+    "infinitiv": "umiti ",
+    "srednjik (prezent 1. lica jednine)": "umijem",
+    "deležnik (particip)": "umil/a",
+    "prevod": "oprati"
+  },
+  {
+    "id": "265",
+    "infinitiv": "umiti se",
+    "srednjik (prezent 1. lica jednine)": "umijem se",
+    "deležnik (particip)": "umil/a se",
+    "prevod": "umiti se"
+  },
+  {
+    "id": "266",
+    "infinitiv": "umiti si",
+    "srednjik (prezent 1. lica jednine)": "umijem si",
+    "deležnik (particip)": "umil/a si",
+    "prevod": "umiti se"
+  },
+  {
+    "id": "267",
+    "infinitiv": "umreti",
+    "srednjik (prezent 1. lica jednine)": "umrem",
+    "deležnik (particip)": "umrl/a",
+    "prevod": "umreti"
+  },
+  {
+    "id": "268",
+    "infinitiv": "uporabljati",
+    "srednjik (prezent 1. lica jednine)": "uporabljam",
+    "deležnik (particip)": "uporabljal/a",
+    "prevod": "koristiti"
+  },
+  {
+    "id": "269",
+    "infinitiv": "urejati ",
+    "srednjik (prezent 1. lica jednine)": "urejam",
+    "deležnik (particip)": "urejal/a",
+    "prevod": "uređivati"
+  },
+  {
+    "id": "270",
+    "infinitiv": "usesti se",
+    "srednjik (prezent 1. lica jednine)": "usedem se",
+    "deležnik (particip)": "usedel/usedla se",
+    "prevod": "esti se"
+  },
+  {
+    "id": "271",
+    "infinitiv": "ustvarjati",
+    "srednjik (prezent 1. lica jednine)": "ustvarjam",
+    "deležnik (particip)": "ustvarjal/a",
+    "prevod": "stvarati"
+  },
+  {
+    "id": "272",
+    "infinitiv": "vedeti",
+    "srednjik (prezent 1. lica jednine)": "vem",
+    "deležnik (particip)": "vedel/vedela",
+    "prevod": "znati"
+  },
+  {
+    "id": "273",
+    "infinitiv": "verjeti",
+    "srednjik (prezent 1. lica jednine)": "verjamem",
+    "deležnik (particip)": "verjel/a",
+    "prevod": "verovati"
+  },
+  {
+    "id": "274",
+    "infinitiv": "veseliti se",
+    "srednjik (prezent 1. lica jednine)": "veselim se",
+    "deležnik (particip)": "veselil/a se",
+    "prevod": "veseliti se"
+  },
+  {
+    "id": "275",
+    "infinitiv": "videti",
+    "srednjik (prezent 1. lica jednine)": "vidim",
+    "deležnik (particip)": "videl/a",
+    "prevod": "videti"
+  },
+  {
+    "id": "276",
+    "infinitiv": "viseti",
+    "srednjik (prezent 1. lica jednine)": "visim",
+    "deležnik (particip)": "visel/a",
+    "prevod": "viseti"
+  },
+  {
+    "id": "277",
+    "infinitiv": "vključiti",
+    "srednjik (prezent 1. lica jednine)": "vključim",
+    "deležnik (particip)": "vključil/a",
+    "prevod": "uključiti"
+  },
+  {
+    "id": "278",
+    "infinitiv": "vklopiti",
+    "srednjik (prezent 1. lica jednine)": "vklopim",
+    "deležnik (particip)": "vklopil/a",
+    "prevod": "upaliti"
+  },
+  {
+    "id": "279",
+    "infinitiv": "voščiti",
+    "srednjik (prezent 1. lica jednine)": "voščim",
+    "deležnik (particip)": "voščil/a",
+    "prevod": "čestitati"
+  },
+  {
+    "id": "280",
+    "infinitiv": "vpisati se",
+    "srednjik (prezent 1. lica jednine)": "vpišem se",
+    "deležnik (particip)": "vpisal/a se",
+    "prevod": "upisati se"
+  },
+  {
+    "id": "281",
+    "infinitiv": "vprašati",
+    "srednjik (prezent 1. lica jednine)": "vprašam",
+    "deležnik (particip)": "vprašal/a",
+    "prevod": "pitati"
+  },
+  {
+    "id": "282",
+    "infinitiv": "vreči",
+    "srednjik (prezent 1. lica jednine)": "vržem",
+    "deležnik (particip)": "vrgel/vrgla",
+    "prevod": "baciti"
+  },
+  {
+    "id": "283",
+    "infinitiv": "vrtnariti",
+    "srednjik (prezent 1. lica jednine)": "vrtnarim",
+    "deležnik (particip)": "vrtnaril/a",
+    "prevod": "vrtlarenje"
+  },
+  {
+    "id": "284",
+    "infinitiv": "vsebovati",
+    "srednjik (prezent 1. lica jednine)": "vsebuje",
+    "deležnik (particip)": "vseboval/a",
+    "prevod": "sadržavati"
+  },
+  {
+    "id": "285",
+    "infinitiv": "vstati",
+    "srednjik (prezent 1. lica jednine)": "vstanem",
+    "deležnik (particip)": "vstal/a",
+    "prevod": "ustati"
+  },
+  {
+    "id": "286",
+    "infinitiv": "vstopiti",
+    "srednjik (prezent 1. lica jednine)": "vstopim",
+    "deležnik (particip)": "vstopil/a",
+    "prevod": "ući"
+  },
+  {
+    "id": "287",
+    "infinitiv": "vzdrževati",
+    "srednjik (prezent 1. lica jednine)": "vzdržujem",
+    "deležnik (particip)": "vzdrževal/a",
+    "prevod": "održavati"
+  },
+  {
+    "id": "288",
+    "infinitiv": "vzeti",
+    "srednjik (prezent 1. lica jednine)": "vzamen",
+    "deležnik (particip)": "vzel/a",
+    "prevod": "uzeti"
+  },
+  {
+    "id": "289",
+    "infinitiv": "vzeti si ",
+    "srednjik (prezent 1. lica jednine)": "vzamen si",
+    "deležnik (particip)": "vzel/a si",
+    "prevod": "uzeti sebi"
+  },
+  {
+    "id": "290",
+    "infinitiv": "zabavati se",
+    "srednjik (prezent 1. lica jednine)": "zabavam se",
+    "deležnik (particip)": "zabaval/a se",
+    "prevod": "zabavljati se"
+  },
+  {
+    "id": "291",
+    "infinitiv": "zahtevati",
+    "srednjik (prezent 1. lica jednine)": "zahtevam",
+    "deležnik (particip)": "zahteval/a",
+    "prevod": "zahtevati"
+  },
+  {
+    "id": "292",
+    "infinitiv": "zajtrkovati",
+    "srednjik (prezent 1. lica jednine)": "zajtrkujem",
+    "deležnik (particip)": "zajtrkoval/a",
+    "prevod": "doručkovati"
+  },
+  {
+    "id": "293",
+    "infinitiv": "zakleniti ",
+    "srednjik (prezent 1. lica jednine)": "zaklenem",
+    "deležnik (particip)": "zaklenil/a",
+    "prevod": "zaključati"
+  },
+  {
+    "id": "294",
+    "infinitiv": "zakrpati",
+    "srednjik (prezent 1. lica jednine)": "zakrpam",
+    "deležnik (particip)": "zakrpal/a",
+    "prevod": "zakrpiti"
+  },
+  {
+    "id": "295",
+    "infinitiv": "zakuriti",
+    "srednjik (prezent 1. lica jednine)": "zakurim",
+    "deležnik (particip)": "zakuril/a",
+    "prevod": "upaliti vatru"
+  },
+  {
+    "id": "296",
+    "infinitiv": "zaliti",
+    "srednjik (prezent 1. lica jednine)": "zalijem",
+    "deležnik (particip)": "zalil/a",
+    "prevod": "zaliti"
+  },
+  {
+    "id": "297",
+    "infinitiv": "zalivati",
+    "srednjik (prezent 1. lica jednine)": "zalivam",
+    "deležnik (particip)": "zalival/a",
+    "prevod": "zalivati"
+  },
+  {
+    "id": "298",
+    "infinitiv": "zamenjati",
+    "srednjik (prezent 1. lica jednine)": "zamenjam",
+    "deležnik (particip)": "zamenjal/a",
+    "prevod": "zameniti"
+  },
+  {
+    "id": "299",
+    "infinitiv": "zamuditi",
+    "srednjik (prezent 1. lica jednine)": "zamudim",
+    "deležnik (particip)": "zamudil/a",
+    "prevod": "zakasniti"
+  },
+  {
+    "id": "300",
+    "infinitiv": "zanimati",
+    "srednjik (prezent 1. lica jednine)": "zanimam",
+    "deležnik (particip)": "zanimal/a",
+    "prevod": "zanimati"
+  },
+  {
+    "id": "301",
+    "infinitiv": "zapeti",
+    "srednjik (prezent 1. lica jednine)": "zapojem",
+    "deležnik (particip)": "zapel/a",
+    "prevod": "zapevati"
+  },
+  {
+    "id": "302",
+    "infinitiv": "zapreti",
+    "srednjik (prezent 1. lica jednine)": "zaprem",
+    "deležnik (particip)": "zaprl/a",
+    "prevod": "zatvoriti"
+  },
+  {
+    "id": "303",
+    "infinitiv": "zapreti se ",
+    "srednjik (prezent 1. lica jednine)": "zaprem se",
+    "deležnik (particip)": "zaprl/a se",
+    "prevod": "zatvoriti se"
+  },
+  {
+    "id": "304",
+    "infinitiv": "zaspati",
+    "srednjik (prezent 1. lica jednine)": "zaspim",
+    "deležnik (particip)": "zaspal/a",
+    "prevod": "zaspati"
+  },
+  {
+    "id": "305",
+    "infinitiv": "zaupati",
+    "srednjik (prezent 1. lica jednine)": "zaupam",
+    "deležnik (particip)": "zaupal/a",
+    "prevod": "verovati"
+  },
+  {
+    "id": "306",
+    "infinitiv": "zavedati se",
+    "srednjik (prezent 1. lica jednine)": "zavedam se",
+    "deležnik (particip)": "zavedal/a se",
+    "prevod": "svestan/a biti"
+  },
+  {
+    "id": "307",
+    "infinitiv": "zaviti",
+    "srednjik (prezent 1. lica jednine)": "zavijem",
+    "deležnik (particip)": "zavil/a",
+    "prevod": "zaviti"
+  },
+  {
+    "id": "308",
+    "infinitiv": "zbirati",
+    "srednjik (prezent 1. lica jednine)": "zbiram",
+    "deležnik (particip)": "zbiral/a",
+    "prevod": "sakupljati"
+  },
+  {
+    "id": "309",
+    "infinitiv": "zbujati se",
+    "srednjik (prezent 1. lica jednine)": "zbujam se",
+    "deležnik (particip)": "zbujal/a se",
+    "prevod": "buditi se"
+  },
+  {
+    "id": "310",
+    "infinitiv": "zdeti se",
+    "srednjik (prezent 1. lica jednine)": "zdim se",
+    "deležnik (particip)": "zdel/a se",
+    "prevod": "činiti se"
+  },
+  {
+    "id": "311",
+    "infinitiv": "zdržati",
+    "srednjik (prezent 1. lica jednine)": "zdržim",
+    "deležnik (particip)": "zdržal/a",
+    "prevod": "izdržati"
+  },
+  {
+    "id": "312",
+    "infinitiv": "zgoditi se",
+    "srednjik (prezent 1. lica jednine)": "zgodi se",
+    "deležnik (particip)": "zgodil/a se",
+    "prevod": "desiti se"
+  },
+  {
+    "id": "313",
+    "infinitiv": "zlagati se",
+    "srednjik (prezent 1. lica jednine)": "zlažem se",
+    "deležnik (particip)": "zlagal/a se",
+    "prevod": "lagati se"
+  },
+  {
+    "id": "314",
+    "infinitiv": "zlikati",
+    "srednjik (prezent 1. lica jednine)": "zlikam",
+    "deležnik (particip)": "zlikal/a",
+    "prevod": "peglati"
+  },
+  {
+    "id": "315",
+    "infinitiv": "zlomiti si",
+    "srednjik (prezent 1. lica jednine)": "zlomim si",
+    "deležnik (particip)": "zlomil/a si",
+    "prevod": "slomiti sebi"
+  },
+  {
+    "id": "316",
+    "infinitiv": "zložiti",
+    "srednjik (prezent 1. lica jednine)": "zložim",
+    "deležnik (particip)": "zložil/a",
+    "prevod": "složiti"
+  },
+  {
+    "id": "317",
+    "infinitiv": "zmagati",
+    "srednjik (prezent 1. lica jednine)": "zmagam",
+    "deležnik (particip)": "zmagal/a",
+    "prevod": "pobediti"
+  },
+  {
+    "id": "318",
+    "infinitiv": "zmeniti se",
+    "srednjik (prezent 1. lica jednine)": "zmenim se",
+    "deležnik (particip)": "zmenil/a se",
+    "prevod": "dogovoriti se"
+  },
+  {
+    "id": "319",
+    "infinitiv": "znati",
+    "srednjik (prezent 1. lica jednine)": "znam",
+    "deležnik (particip)": "znal/a",
+    "prevod": "znati"
+  },
+  {
+    "id": "320",
+    "infinitiv": "zračunati ",
+    "srednjik (prezent 1. lica jednine)": "zračunam",
+    "deležnik (particip)": "zračunal/a",
+    "prevod": "izračunati"
+  },
+  {
+    "id": "321",
+    "infinitiv": "zrasti",
+    "srednjik (prezent 1. lica jednine)": "zrastem",
+    "deležnik (particip)": "zrastel/zrastla",
+    "prevod": "porasti"
+  },
+  {
+    "id": "322",
+    "infinitiv": "zviti si",
+    "srednjik (prezent 1. lica jednine)": "zvijem si",
+    "deležnik (particip)": "zvil/a si",
+    "prevod": "uviti se"
+  },
+  {
+    "id": "323",
+    "infinitiv": "želeti",
+    "srednjik (prezent 1. lica jednine)": "želim",
+    "deležnik (particip)": "želel/a",
+    "prevod": "želeti"
+  },
+  {
+    "id": "324",
+    "infinitiv": "želeti si ",
+    "srednjik (prezent 1. lica jednine)": "želim si",
+    "deležnik (particip)": "želel/a si",
+    "prevod": "želeti sebi"
+  },
+  {
+    "id": "325",
+    "infinitiv": "živeti",
+    "srednjik (prezent 1. lica jednine)": "živim",
+    "deležnik (particip)": "živel/a",
+    "prevod": "živeti"
+  }
+]

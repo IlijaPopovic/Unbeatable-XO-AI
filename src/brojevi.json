@@ -1,0 +1,2410 @@
+[
+  {
+    "number": "1",
+    "slovenian": "ena"
+  },
+  {
+    "number": "2",
+    "slovenian": "dva"
+  },
+  {
+    "number": "3",
+    "slovenian": "tri"
+  },
+  {
+    "number": "4",
+    "slovenian": "štiri"
+  },
+  {
+    "number": "5",
+    "slovenian": "pet"
+  },
+  {
+    "number": "6",
+    "slovenian": "šest"
+  },
+  {
+    "number": "7",
+    "slovenian": "sedem"
+  },
+  {
+    "number": "8",
+    "slovenian": "osem"
+  },
+  {
+    "number": "9",
+    "slovenian": "devet"
+  },
+  {
+    "number": "10",
+    "slovenian": "deset"
+  },
+  {
+    "number": "11",
+    "slovenian": "enajst"
+  },
+  {
+    "number": "12",
+    "slovenian": "dvanajst"
+  },
+  {
+    "number": "13",
+    "slovenian": "trinajst"
+  },
+  {
+    "number": "14",
+    "slovenian": "štirinajst"
+  },
+  {
+    "number": "15",
+    "slovenian": "petnajst"
+  },
+  {
+    "number": "16",
+    "slovenian": "šestnajst"
+  },
+  {
+    "number": "17",
+    "slovenian": "sedemnajst"
+  },
+  {
+    "number": "18",
+    "slovenian": "osemnajst"
+  },
+  {
+    "number": "19",
+    "slovenian": "devetnajst"
+  },
+  {
+    "number": "20",
+    "slovenian": "dvajset"
+  },
+  {
+    "number": "21",
+    "slovenian": "enaindvajset"
+  },
+  {
+    "number": "22",
+    "slovenian": "dvaindvajset"
+  },
+  {
+    "number": "23",
+    "slovenian": "triindvajset"
+  },
+  {
+    "number": "24",
+    "slovenian": "štiriindvajset"
+  },
+  {
+    "number": "25",
+    "slovenian": "petindvajset"
+  },
+  {
+    "number": "26",
+    "slovenian": "šestindvajset"
+  },
+  {
+    "number": "27",
+    "slovenian": "sedemindvajset"
+  },
+  {
+    "number": "28",
+    "slovenian": "osemindvajset"
+  },
+  {
+    "number": "29",
+    "slovenian": "devetindvajset"
+  },
+  {
+    "number": "30",
+    "slovenian": "trideset"
+  },
+  {
+    "number": "31",
+    "slovenian": "enaintrideset"
+  },
+  {
+    "number": "32",
+    "slovenian": "dvaintrideset"
+  },
+  {
+    "number": "33",
+    "slovenian": "triintrideset"
+  },
+  {
+    "number": "34",
+    "slovenian": "štiriintrideset"
+  },
+  {
+    "number": "35",
+    "slovenian": "petintrideset"
+  },
+  {
+    "number": "36",
+    "slovenian": "šestintrideset"
+  },
+  {
+    "number": "37",
+    "slovenian": "sedemintrideset"
+  },
+  {
+    "number": "38",
+    "slovenian": "osemintrideset"
+  },
+  {
+    "number": "39",
+    "slovenian": "devetintrideset"
+  },
+  {
+    "number": "40",
+    "slovenian": "štirideset"
+  },
+  {
+    "number": "41",
+    "slovenian": "enainštirideset"
+  },
+  {
+    "number": "42",
+    "slovenian": "dvainštirideset"
+  },
+  {
+    "number": "43",
+    "slovenian": "triinštirideset"
+  },
+  {
+    "number": "44",
+    "slovenian": "štiriinštirideset"
+  },
+  {
+    "number": "45",
+    "slovenian": "petinštirideset"
+  },
+  {
+    "number": "46",
+    "slovenian": "šestinštirideset"
+  },
+  {
+    "number": "47",
+    "slovenian": "sedeminštirideset"
+  },
+  {
+    "number": "48",
+    "slovenian": "oseminštirideset"
+  },
+  {
+    "number": "49",
+    "slovenian": "devetinštirideset"
+  },
+  {
+    "number": "50",
+    "slovenian": "petdeset"
+  },
+  {
+    "number": "51",
+    "slovenian": "enainpetdeset"
+  },
+  {
+    "number": "52",
+    "slovenian": "dvainpetdeset"
+  },
+  {
+    "number": "53",
+    "slovenian": "triinpetdeset"
+  },
+  {
+    "number": "54",
+    "slovenian": "štiriinpetdeset"
+  },
+  {
+    "number": "55",
+    "slovenian": "petinpetdeset"
+  },
+  {
+    "number": "56",
+    "slovenian": "šestinpetdeset"
+  },
+  {
+    "number": "57",
+    "slovenian": "sedeminpetdeset"
+  },
+  {
+    "number": "58",
+    "slovenian": "oseminpetdeset"
+  },
+  {
+    "number": "59",
+    "slovenian": "devetinpetdeset"
+  },
+  {
+    "number": "60",
+    "slovenian": "šestdeset"
+  },
+  {
+    "number": "61",
+    "slovenian": "enainšestdeset"
+  },
+  {
+    "number": "62",
+    "slovenian": "dvainšestdeset"
+  },
+  {
+    "number": "63",
+    "slovenian": "triinšestdeset"
+  },
+  {
+    "number": "64",
+    "slovenian": "štiriinšestdeset"
+  },
+  {
+    "number": "65",
+    "slovenian": "petinšestdeset"
+  },
+  {
+    "number": "66",
+    "slovenian": "šestinšestdeset"
+  },
+  {
+    "number": "67",
+    "slovenian": "sedeminšestdeset"
+  },
+  {
+    "number": "68",
+    "slovenian": "oseminšestdeset"
+  },
+  {
+    "number": "69",
+    "slovenian": "devetinšestdeset"
+  },
+  {
+    "number": "70",
+    "slovenian": "sedemdeset"
+  },
+  {
+    "number": "71",
+    "slovenian": "enain sedemdeset"
+  },
+  {
+    "number": "72",
+    "slovenian": "dvain sedemdeset"
+  },
+  {
+    "number": "73",
+    "slovenian": "triin sedemdeset"
+  },
+  {
+    "number": "74",
+    "slovenian": "štiriin sedemdeset"
+  },
+  {
+    "number": "75",
+    "slovenian": "petin sedemdeset"
+  },
+  {
+    "number": "76",
+    "slovenian": "šestin sedemdeset"
+  },
+  {
+    "number": "77",
+    "slovenian": "sedemin sedemdeset"
+  },
+  {
+    "number": "78",
+    "slovenian": "osemin sedemdeset"
+  },
+  {
+    "number": "79",
+    "slovenian": "devetin sedemdeset"
+  },
+  {
+    "number": "80",
+    "slovenian": "osemdeset"
+  },
+  {
+    "number": "81",
+    "slovenian": "enain osemdeset"
+  },
+  {
+    "number": "82",
+    "slovenian": "dvain osemdeset"
+  },
+  {
+    "number": "83",
+    "slovenian": "triin osemdeset"
+  },
+  {
+    "number": "84",
+    "slovenian": "štiriin osemdeset"
+  },
+  {
+    "number": "85",
+    "slovenian": "petin osemdeset"
+  },
+  {
+    "number": "86",
+    "slovenian": "šestin osemdeset"
+  },
+  {
+    "number": "87",
+    "slovenian": "sedemin osemdeset"
+  },
+  {
+    "number": "88",
+    "slovenian": "osemin osemdeset"
+  },
+  {
+    "number": "89",
+    "slovenian": "devetin osemdeset"
+  },
+  {
+    "number": "90",
+    "slovenian": "devetdeset"
+  },
+  {
+    "number": "91",
+    "slovenian": "enain devetdeset"
+  },
+  {
+    "number": "92",
+    "slovenian": "dvain devetdeset"
+  },
+  {
+    "number": "93",
+    "slovenian": "triin devetdeset"
+  },
+  {
+    "number": "94",
+    "slovenian": "štiriin devetdeset"
+  },
+  {
+    "number": "95",
+    "slovenian": "petin devetdeset"
+  },
+  {
+    "number": "96",
+    "slovenian": "šestin devetdeset"
+  },
+  {
+    "number": "97",
+    "slovenian": "sedemin devetdeset"
+  },
+  {
+    "number": "98",
+    "slovenian": "osemin devetdeset"
+  },
+  {
+    "number": "99",
+    "slovenian": "devetin devetdeset"
+  },
+  {
+    "number": "100",
+    "slovenian": "sto"
+  },
+  {
+    "number": "101",
+    "slovenian": "sto ena"
+  },
+  {
+    "number": "102",
+    "slovenian": "sto dva"
+  },
+  {
+    "number": "103",
+    "slovenian": "sto tri"
+  },
+  {
+    "number": "104",
+    "slovenian": "sto štiri"
+  },
+  {
+    "number": "105",
+    "slovenian": "sto pet"
+  },
+  {
+    "number": "106",
+    "slovenian": "sto šest"
+  },
+  {
+    "number": "107",
+    "slovenian": "sto sedem"
+  },
+  {
+    "number": "108",
+    "slovenian": "sto osem"
+  },
+  {
+    "number": "109",
+    "slovenian": "sto devet"
+  },
+  {
+    "number": "110",
+    "slovenian": "sto deset"
+  },
+  {
+    "number": "111",
+    "slovenian": "sto enajst"
+  },
+  {
+    "number": "112",
+    "slovenian": "sto dvanajst"
+  },
+  {
+    "number": "113",
+    "slovenian": "sto trinajst"
+  },
+  {
+    "number": "114",
+    "slovenian": "sto štirinajst"
+  },
+  {
+    "number": "115",
+    "slovenian": "sto petnajst"
+  },
+  {
+    "number": "116",
+    "slovenian": "sto šestnajst"
+  },
+  {
+    "number": "117",
+    "slovenian": "sto sedemnajst"
+  },
+  {
+    "number": "118",
+    "slovenian": "sto osemnajst"
+  },
+  {
+    "number": "119",
+    "slovenian": "sto devetnajst"
+  },
+  {
+    "number": "120",
+    "slovenian": "sto dvajset"
+  },
+  {
+    "number": "121",
+    "slovenian": "sto enaindvajset"
+  },
+  {
+    "number": "122",
+    "slovenian": "sto dvaindvajset"
+  },
+  {
+    "number": "123",
+    "slovenian": "sto triindvajset"
+  },
+  {
+    "number": "124",
+    "slovenian": "sto štiriindvajset"
+  },
+  {
+    "number": "125",
+    "slovenian": "sto petindvajset"
+  },
+  {
+    "number": "126",
+    "slovenian": "sto šestindvajset"
+  },
+  {
+    "number": "127",
+    "slovenian": "sto sedemindvajset"
+  },
+  {
+    "number": "128",
+    "slovenian": "sto osemindvajset"
+  },
+  {
+    "number": "129",
+    "slovenian": "sto devetindvajset"
+  },
+  {
+    "number": "130",
+    "slovenian": "sto trideset"
+  },
+  {
+    "number": "131",
+    "slovenian": "sto enaintrideset"
+  },
+  {
+    "number": "132",
+    "slovenian": "sto dvaintrideset"
+  },
+  {
+    "number": "133",
+    "slovenian": "sto triintrideset"
+  },
+  {
+    "number": "134",
+    "slovenian": "sto štiriintrideset"
+  },
+  {
+    "number": "135",
+    "slovenian": "sto petintrideset"
+  },
+  {
+    "number": "136",
+    "slovenian": "sto šestintrideset"
+  },
+  {
+    "number": "137",
+    "slovenian": "sto sedemintrideset"
+  },
+  {
+    "number": "138",
+    "slovenian": "sto osemintrideset"
+  },
+  {
+    "number": "139",
+    "slovenian": "sto devetintrideset"
+  },
+  {
+    "number": "140",
+    "slovenian": "sto štirideset"
+  },
+  {
+    "number": "141",
+    "slovenian": "sto enainštirideset"
+  },
+  {
+    "number": "142",
+    "slovenian": "sto dvainštirideset"
+  },
+  {
+    "number": "143",
+    "slovenian": "sto triinštirideset"
+  },
+  {
+    "number": "144",
+    "slovenian": "sto štiriinštirideset"
+  },
+  {
+    "number": "145",
+    "slovenian": "sto petinštirideset"
+  },
+  {
+    "number": "146",
+    "slovenian": "sto šestinštirideset"
+  },
+  {
+    "number": "147",
+    "slovenian": "sto sedeminštirideset"
+  },
+  {
+    "number": "148",
+    "slovenian": "sto oseminštirideset"
+  },
+  {
+    "number": "149",
+    "slovenian": "sto devetinštirideset"
+  },
+  {
+    "number": "150",
+    "slovenian": "sto petdeset"
+  },
+  {
+    "number": "151",
+    "slovenian": "sto enainpetdeset"
+  },
+  {
+    "number": "152",
+    "slovenian": "sto dvainpetdeset"
+  },
+  {
+    "number": "153",
+    "slovenian": "sto triinpetdeset"
+  },
+  {
+    "number": "154",
+    "slovenian": "sto štiriinpetdeset"
+  },
+  {
+    "number": "155",
+    "slovenian": "sto petinpetdeset"
+  },
+  {
+    "number": "156",
+    "slovenian": "sto šestinpetdeset"
+  },
+  {
+    "number": "157",
+    "slovenian": "sto sedeminpetdeset"
+  },
+  {
+    "number": "158",
+    "slovenian": "sto oseminpetdeset"
+  },
+  {
+    "number": "159",
+    "slovenian": "sto devetinpetdeset"
+  },
+  {
+    "number": "160",
+    "slovenian": "sto šestdeset"
+  },
+  {
+    "number": "161",
+    "slovenian": "sto enainšestdeset"
+  },
+  {
+    "number": "162",
+    "slovenian": "sto dvainšestdeset"
+  },
+  {
+    "number": "163",
+    "slovenian": "sto triinšestdeset"
+  },
+  {
+    "number": "164",
+    "slovenian": "sto štiriinšestdeset"
+  },
+  {
+    "number": "165",
+    "slovenian": "sto petinšestdeset"
+  },
+  {
+    "number": "166",
+    "slovenian": "sto šestinšestdeset"
+  },
+  {
+    "number": "167",
+    "slovenian": "sto sedeminšestdeset"
+  },
+  {
+    "number": "168",
+    "slovenian": "sto oseminšestdeset"
+  },
+  {
+    "number": "169",
+    "slovenian": "sto devetinšestdeset"
+  },
+  {
+    "number": "170",
+    "slovenian": "sto sedemdeset"
+  },
+  {
+    "number": "171",
+    "slovenian": "sto enain sedemdeset"
+  },
+  {
+    "number": "172",
+    "slovenian": "sto dvain sedemdeset"
+  },
+  {
+    "number": "173",
+    "slovenian": "sto triin sedemdeset"
+  },
+  {
+    "number": "174",
+    "slovenian": "sto štiriin sedemdeset"
+  },
+  {
+    "number": "175",
+    "slovenian": "sto petin sedemdeset"
+  },
+  {
+    "number": "176",
+    "slovenian": "sto šestin sedemdeset"
+  },
+  {
+    "number": "177",
+    "slovenian": "sto sedemin sedemdeset"
+  },
+  {
+    "number": "178",
+    "slovenian": "sto osemin sedemdeset"
+  },
+  {
+    "number": "179",
+    "slovenian": "sto devetin sedemdeset"
+  },
+  {
+    "number": "180",
+    "slovenian": "sto osemdeset"
+  },
+  {
+    "number": "181",
+    "slovenian": "sto enain osemdeset"
+  },
+  {
+    "number": "182",
+    "slovenian": "sto dvain osemdeset"
+  },
+  {
+    "number": "183",
+    "slovenian": "sto triin osemdeset"
+  },
+  {
+    "number": "184",
+    "slovenian": "sto štiriin osemdeset"
+  },
+  {
+    "number": "185",
+    "slovenian": "sto petin osemdeset"
+  },
+  {
+    "number": "186",
+    "slovenian": "sto šestin osemdeset"
+  },
+  {
+    "number": "187",
+    "slovenian": "sto sedemin osemdeset"
+  },
+  {
+    "number": "188",
+    "slovenian": "sto osemin osemdeset"
+  },
+  {
+    "number": "189",
+    "slovenian": "sto devetin osemdeset"
+  },
+  {
+    "number": "190",
+    "slovenian": "sto devetdeset"
+  },
+  {
+    "number": "191",
+    "slovenian": "sto enain devetdeset"
+  },
+  {
+    "number": "192",
+    "slovenian": "sto dvain devetdeset"
+  },
+  {
+    "number": "193",
+    "slovenian": "sto triin devetdeset"
+  },
+  {
+    "number": "194",
+    "slovenian": "sto štiriin devetdeset"
+  },
+  {
+    "number": "195",
+    "slovenian": "sto petin devetdeset"
+  },
+  {
+    "number": "196",
+    "slovenian": "sto šestin devetdeset"
+  },
+  {
+    "number": "197",
+    "slovenian": "sto sedemin devetdeset"
+  },
+  {
+    "number": "198",
+    "slovenian": "sto osemin devetdeset"
+  },
+  {
+    "number": "199",
+    "slovenian": "sto devetin devetdeset"
+  },
+  {
+    "number": "200",
+    "slovenian": "dvesto"
+  },
+  {
+    "number": "201",
+    "slovenian": "dvesto ena"
+  },
+  {
+    "number": "202",
+    "slovenian": "dvesto dva"
+  },
+  {
+    "number": "203",
+    "slovenian": "dvesto tri"
+  },
+  {
+    "number": "204",
+    "slovenian": "dvesto štiri"
+  },
+  {
+    "number": "205",
+    "slovenian": "dvesto pet"
+  },
+  {
+    "number": "206",
+    "slovenian": "dvesto šest"
+  },
+  {
+    "number": "207",
+    "slovenian": "dvesto sedem"
+  },
+  {
+    "number": "208",
+    "slovenian": "dvesto osem"
+  },
+  {
+    "number": "209",
+    "slovenian": "dvesto devet"
+  },
+  {
+    "number": "210",
+    "slovenian": "dvesto deset"
+  },
+  {
+    "number": "211",
+    "slovenian": "dvesto enajst"
+  },
+  {
+    "number": "212",
+    "slovenian": "dvesto dvanajst"
+  },
+  {
+    "number": "213",
+    "slovenian": "dvesto trinajst"
+  },
+  {
+    "number": "214",
+    "slovenian": "dvesto štirinajst"
+  },
+  {
+    "number": "215",
+    "slovenian": "dvesto petnajst"
+  },
+  {
+    "number": "216",
+    "slovenian": "dvesto šestnajst"
+  },
+  {
+    "number": "217",
+    "slovenian": "dvesto sedemnajst"
+  },
+  {
+    "number": "218",
+    "slovenian": "dvesto osemnajst"
+  },
+  {
+    "number": "219",
+    "slovenian": "dvesto devetnajst"
+  },
+  {
+    "number": "220",
+    "slovenian": "dvesto dvajset"
+  },
+  {
+    "number": "221",
+    "slovenian": "dvesto enaindvajset"
+  },
+  {
+    "number": "222",
+    "slovenian": "dvesto dvaindvajset"
+  },
+  {
+    "number": "223",
+    "slovenian": "dvesto triindvajset"
+  },
+  {
+    "number": "224",
+    "slovenian": "dvesto štiriindvajset"
+  },
+  {
+    "number": "225",
+    "slovenian": "dvesto petindvajset"
+  },
+  {
+    "number": "226",
+    "slovenian": "dvesto šestindvajset"
+  },
+  {
+    "number": "227",
+    "slovenian": "dvesto sedemindvajset"
+  },
+  {
+    "number": "228",
+    "slovenian": "dvesto osemindvajset"
+  },
+  {
+    "number": "229",
+    "slovenian": "dvesto devetindvajset"
+  },
+  {
+    "number": "230",
+    "slovenian": "dvesto trideset"
+  },
+  {
+    "number": "231",
+    "slovenian": "dvesto enaintrideset"
+  },
+  {
+    "number": "232",
+    "slovenian": "dvesto dvaintrideset"
+  },
+  {
+    "number": "233",
+    "slovenian": "dvesto triintrideset"
+  },
+  {
+    "number": "234",
+    "slovenian": "dvesto štiriintrideset"
+  },
+  {
+    "number": "235",
+    "slovenian": "dvesto petintrideset"
+  },
+  {
+    "number": "236",
+    "slovenian": "dvesto šestintrideset"
+  },
+  {
+    "number": "237",
+    "slovenian": "dvesto sedemintrideset"
+  },
+  {
+    "number": "238",
+    "slovenian": "dvesto osemintrideset"
+  },
+  {
+    "number": "239",
+    "slovenian": "dvesto devetintrideset"
+  },
+  {
+    "number": "240",
+    "slovenian": "dvesto štirideset"
+  },
+  {
+    "number": "241",
+    "slovenian": "dvesto enainštirideset"
+  },
+  {
+    "number": "242",
+    "slovenian": "dvesto dvainštirideset"
+  },
+  {
+    "number": "243",
+    "slovenian": "dvesto triinštirideset"
+  },
+  {
+    "number": "244",
+    "slovenian": "dvesto štiriinštirideset"
+  },
+  {
+    "number": "245",
+    "slovenian": "dvesto petinštirideset"
+  },
+  {
+    "number": "246",
+    "slovenian": "dvesto šestinštirideset"
+  },
+  {
+    "number": "247",
+    "slovenian": "dvesto sedeminštirideset"
+  },
+  {
+    "number": "248",
+    "slovenian": "dvesto oseminštirideset"
+  },
+  {
+    "number": "249",
+    "slovenian": "dvesto devetinštirideset"
+  },
+  {
+    "number": "250",
+    "slovenian": "dvesto petdeset"
+  },
+  {
+    "number": "251",
+    "slovenian": "dvesto enainpetdeset"
+  },
+  {
+    "number": "252",
+    "slovenian": "dvesto dvainpetdeset"
+  },
+  {
+    "number": "253",
+    "slovenian": "dvesto triinpetdeset"
+  },
+  {
+    "number": "254",
+    "slovenian": "dvesto štiriinpetdeset"
+  },
+  {
+    "number": "255",
+    "slovenian": "dvesto petinpetdeset"
+  },
+  {
+    "number": "256",
+    "slovenian": "dvesto šestinpetdeset"
+  },
+  {
+    "number": "257",
+    "slovenian": "dvesto sedeminpetdeset"
+  },
+  {
+    "number": "258",
+    "slovenian": "dvesto oseminpetdeset"
+  },
+  {
+    "number": "259",
+    "slovenian": "dvesto devetinpetdeset"
+  },
+  {
+    "number": "260",
+    "slovenian": "dvesto šestdeset"
+  },
+  {
+    "number": "261",
+    "slovenian": "dvesto enainšestdeset"
+  },
+  {
+    "number": "262",
+    "slovenian": "dvesto dvainšestdeset"
+  },
+  {
+    "number": "263",
+    "slovenian": "dvesto triinšestdeset"
+  },
+  {
+    "number": "264",
+    "slovenian": "dvesto štiriinšestdeset"
+  },
+  {
+    "number": "265",
+    "slovenian": "dvesto petinšestdeset"
+  },
+  {
+    "number": "266",
+    "slovenian": "dvesto šestinšestdeset"
+  },
+  {
+    "number": "267",
+    "slovenian": "dvesto sedeminšestdeset"
+  },
+  {
+    "number": "268",
+    "slovenian": "dvesto oseminšestdeset"
+  },
+  {
+    "number": "269",
+    "slovenian": "dvesto devetinšestdeset"
+  },
+  {
+    "number": "270",
+    "slovenian": "dvesto sedemdeset"
+  },
+  {
+    "number": "271",
+    "slovenian": "dvesto enain sedemdeset"
+  },
+  {
+    "number": "272",
+    "slovenian": "dvesto dvain sedemdeset"
+  },
+  {
+    "number": "273",
+    "slovenian": "dvesto triin sedemdeset"
+  },
+  {
+    "number": "274",
+    "slovenian": "dvesto štiriin sedemdeset"
+  },
+  {
+    "number": "275",
+    "slovenian": "dvesto petin sedemdeset"
+  },
+  {
+    "number": "276",
+    "slovenian": "dvesto šestin sedemdeset"
+  },
+  {
+    "number": "277",
+    "slovenian": "dvesto sedemin sedemdeset"
+  },
+  {
+    "number": "278",
+    "slovenian": "dvesto osemin sedemdeset"
+  },
+  {
+    "number": "279",
+    "slovenian": "dvesto devetin sedemdeset"
+  },
+  {
+    "number": "280",
+    "slovenian": "dvesto osemdeset"
+  },
+  {
+    "number": "281",
+    "slovenian": "dvesto enain osemdeset"
+  },
+  {
+    "number": "282",
+    "slovenian": "dvesto dvain osemdeset"
+  },
+  {
+    "number": "283",
+    "slovenian": "dvesto triin osemdeset"
+  },
+  {
+    "number": "284",
+    "slovenian": "dvesto štiriin osemdeset"
+  },
+  {
+    "number": "285",
+    "slovenian": "dvesto petin osemdeset"
+  },
+  {
+    "number": "286",
+    "slovenian": "dvesto šestin osemdeset"
+  },
+  {
+    "number": "287",
+    "slovenian": "dvesto sedemin osemdeset"
+  },
+  {
+    "number": "288",
+    "slovenian": "dvesto osemin osemdeset"
+  },
+  {
+    "number": "289",
+    "slovenian": "dvesto devetin osemdeset"
+  },
+  {
+    "number": "290",
+    "slovenian": "dvesto devetdeset"
+  },
+  {
+    "number": "291",
+    "slovenian": "dvesto enain devetdeset"
+  },
+  {
+    "number": "292",
+    "slovenian": "dvesto dvain devetdeset"
+  },
+  {
+    "number": "293",
+    "slovenian": "dvesto triin devetdeset"
+  },
+  {
+    "number": "294",
+    "slovenian": "dvesto štiriin devetdeset"
+  },
+  {
+    "number": "295",
+    "slovenian": "dvesto petin devetdeset"
+  },
+  {
+    "number": "296",
+    "slovenian": "dvesto šestin devetdeset"
+  },
+  {
+    "number": "297",
+    "slovenian": "dvesto sedemin devetdeset"
+  },
+  {
+    "number": "298",
+    "slovenian": "dvesto osemin devetdeset"
+  },
+  {
+    "number": "299",
+    "slovenian": "dvesto devetin devetdeset"
+  },
+  {
+    "number": "300",
+    "slovenian": "tristo"
+  },
+  {
+    "number": "500",
+    "slovenian": "petsto"
+  },
+  {
+    "number": "501",
+    "slovenian": "petsto ena"
+  },
+  {
+    "number": "502",
+    "slovenian": "petsto dve"
+  },
+  {
+    "number": "503",
+    "slovenian": "petsto tri"
+  },
+  {
+    "number": "504",
+    "slovenian": "petsto štiri"
+  },
+  {
+    "number": "505",
+    "slovenian": "petsto pet"
+  },
+  {
+    "number": "506",
+    "slovenian": "petsto šest"
+  },
+  {
+    "number": "507",
+    "slovenian": "petsto sedem"
+  },
+  {
+    "number": "508",
+    "slovenian": "petsto osem"
+  },
+  {
+    "number": "509",
+    "slovenian": "petsto devet"
+  },
+  {
+    "number": "510",
+    "slovenian": "petsto deset"
+  },
+  {
+    "number": "511",
+    "slovenian": "petsto enajst"
+  },
+  {
+    "number": "512",
+    "slovenian": "petsto dvanajst"
+  },
+  {
+    "number": "513",
+    "slovenian": "petsto trinajst"
+  },
+  {
+    "number": "514",
+    "slovenian": "petsto štirinajst"
+  },
+  {
+    "number": "515",
+    "slovenian": "petsto petnajst"
+  },
+  {
+    "number": "516",
+    "slovenian": "petsto šestnajst"
+  },
+  {
+    "number": "517",
+    "slovenian": "petsto sedemnajst"
+  },
+  {
+    "number": "518",
+    "slovenian": "petsto osemnajst"
+  },
+  {
+    "number": "519",
+    "slovenian": "petsto devetnajst"
+  },
+  {
+    "number": "520",
+    "slovenian": "petsto dvajset"
+  },
+  {
+    "number": "521",
+    "slovenian": "petsto enaindvajset"
+  },
+  {
+    "number": "522",
+    "slovenian": "petsto dvaindvajset"
+  },
+  {
+    "number": "523",
+    "slovenian": "petsto triindvajset"
+  },
+  {
+    "number": "524",
+    "slovenian": "petsto štiriindvajset"
+  },
+  {
+    "number": "525",
+    "slovenian": "petsto petindvajset"
+  },
+  {
+    "number": "526",
+    "slovenian": "petsto šestindvajset"
+  },
+  {
+    "number": "527",
+    "slovenian": "petsto sedemindvajset"
+  },
+  {
+    "number": "528",
+    "slovenian": "petsto osemindvajset"
+  },
+  {
+    "number": "529",
+    "slovenian": "petsto devetindvajset"
+  },
+  {
+    "number": "530",
+    "slovenian": "petsto trideset"
+  },
+  {
+    "number": "531",
+    "slovenian": "petsto enaintrideset"
+  },
+  {
+    "number": "532",
+    "slovenian": "petsto dvaintrideset"
+  },
+  {
+    "number": "533",
+    "slovenian": "petsto triintrideset"
+  },
+  {
+    "number": "534",
+    "slovenian": "petsto štiriintrideset"
+  },
+  {
+    "number": "535",
+    "slovenian": "petsto petintrideset"
+  },
+  {
+    "number": "536",
+    "slovenian": "petsto šestintrideset"
+  },
+  {
+    "number": "537",
+    "slovenian": "petsto sedemintrideset"
+  },
+  {
+    "number": "538",
+    "slovenian": "petsto osemintrideset"
+  },
+  {
+    "number": "539",
+    "slovenian": "petsto devetintrideset"
+  },
+  {
+    "number": "540",
+    "slovenian": "petsto štirideset"
+  },
+  {
+    "number": "541",
+    "slovenian": "petsto enainštirideset"
+  },
+  {
+    "number": "542",
+    "slovenian": "petsto dvaenštirideset"
+  },
+  {
+    "number": "543",
+    "slovenian": "petsto trienštirideset"
+  },
+  {
+    "number": "544",
+    "slovenian": "petsto štirienštirideset"
+  },
+  {
+    "number": "545",
+    "slovenian": "petsto petenštirideset"
+  },
+  {
+    "number": "546",
+    "slovenian": "petsto šestenštirideset"
+  },
+  {
+    "number": "547",
+    "slovenian": "petsto sedemenštirideset"
+  },
+  {
+    "number": "548",
+    "slovenian": "petsto osemenštirideset"
+  },
+  {
+    "number": "549",
+    "slovenian": "petsto devetenštirideset"
+  },
+  {
+    "number": "550",
+    "slovenian": "petsto petdeset"
+  },
+  {
+    "number": "551",
+    "slovenian": "petsto enainpetdeset"
+  },
+  {
+    "number": "552",
+    "slovenian": "petsto dvainpetdeset"
+  },
+  {
+    "number": "553",
+    "slovenian": "petsto tripetdeset"
+  },
+  {
+    "number": "554",
+    "slovenian": "petsto štiripetdeset"
+  },
+  {
+    "number": "555",
+    "slovenian": "petsto petipetdeset"
+  },
+  {
+    "number": "556",
+    "slovenian": "petsto šestipetdeset"
+  },
+  {
+    "number": "557",
+    "slovenian": "petsto sedemipetdeset"
+  },
+  {
+    "number": "558",
+    "slovenian": "petsto osemipetdeset"
+  },
+  {
+    "number": "559",
+    "slovenian": "petsto devetipetdeset"
+  },
+  {
+    "number": "560",
+    "slovenian": "petsto šestdeset"
+  },
+  {
+    "number": "561",
+    "slovenian": "petsto enainšestdeset"
+  },
+  {
+    "number": "562",
+    "slovenian": "petsto dvainšestdeset"
+  },
+  {
+    "number": "563",
+    "slovenian": "petsto triinšestdeset"
+  },
+  {
+    "number": "564",
+    "slovenian": "petsto štiriinšestdeset"
+  },
+  {
+    "number": "565",
+    "slovenian": "petsto petinšestdeset"
+  },
+  {
+    "number": "566",
+    "slovenian": "petsto šestinšestdeset"
+  },
+  {
+    "number": "567",
+    "slovenian": "petsto sedeminšestdeset"
+  },
+  {
+    "number": "568",
+    "slovenian": "petsto oseminšestdeset"
+  },
+  {
+    "number": "569",
+    "slovenian": "petsto devetinšestdeset"
+  },
+  {
+    "number": "570",
+    "slovenian": "petsto sedemdeset"
+  },
+  {
+    "number": "571",
+    "slovenian": "petsto enainsedemdeset"
+  },
+  {
+    "number": "572",
+    "slovenian": "petsto dvainsedemdeset"
+  },
+  {
+    "number": "573",
+    "slovenian": "petsto triinsedemdeset"
+  },
+  {
+    "number": "574",
+    "slovenian": "petsto štiriinsedemdeset"
+  },
+  {
+    "number": "575",
+    "slovenian": "petsto petinsedemdeset"
+  },
+  {
+    "number": "576",
+    "slovenian": "petsto šestinsedemdeset"
+  },
+  {
+    "number": "577",
+    "slovenian": "petsto sedemininsedemdeset"
+  },
+  {
+    "number": "578",
+    "slovenian": "petsto oseminsedemdeset"
+  },
+  {
+    "number": "579",
+    "slovenian": "petsto devetininsedemdeset"
+  },
+  {
+    "number": "580",
+    "slovenian": "petsto osemdeset"
+  },
+  {
+    "number": "581",
+    "slovenian": "petsto enainosemdeset"
+  },
+  {
+    "number": "582",
+    "slovenian": "petsto dvainosemdeset"
+  },
+  {
+    "number": "583",
+    "slovenian": "petsto triinosemdeset"
+  },
+  {
+    "number": "584",
+    "slovenian": "petsto štiriinosemdeset"
+  },
+  {
+    "number": "585",
+    "slovenian": "petsto petinosemdeset"
+  },
+  {
+    "number": "586",
+    "slovenian": "petsto šestinosemdeset"
+  },
+  {
+    "number": "587",
+    "slovenian": "petsto sedemininosemdeset"
+  },
+  {
+    "number": "588",
+    "slovenian": "petsto oseminosemdeset"
+  },
+  {
+    "number": "589",
+    "slovenian": "petsto devetinosemdeset"
+  },
+  {
+    "number": "590",
+    "slovenian": "petsto devetdeset"
+  },
+  {
+    "number": "591",
+    "slovenian": "petsto enaindevetdeset"
+  },
+  {
+    "number": "592",
+    "slovenian": "petsto dvaindevetdeset"
+  },
+  {
+    "number": "593",
+    "slovenian": "petsto triindevetdeset"
+  },
+  {
+    "number": "594",
+    "slovenian": "petsto štiriindevetdeset"
+  },
+  {
+    "number": "595",
+    "slovenian": "petsto petindevetdeset"
+  },
+  {
+    "number": "596",
+    "slovenian": "petsto šestindevetdeset"
+  },
+  {
+    "number": "597",
+    "slovenian": "petsto sedeminindevetdeset"
+  },
+  {
+    "number": "598",
+    "slovenian": "petsto osemindevetdeset"
+  },
+  {
+    "number": "599",
+    "slovenian": "petsto devetindevetdeset"
+  },
+  {
+    "number": "600",
+    "slovenian": "šeststo"
+  },
+  {
+    "number": "601",
+    "slovenian": "šeststo ena"
+  },
+  {
+    "number": "602",
+    "slovenian": "šeststo dve"
+  },
+  {
+    "number": "603",
+    "slovenian": "šeststo tri"
+  },
+  {
+    "number": "604",
+    "slovenian": "šeststo štiri"
+  },
+  {
+    "number": "605",
+    "slovenian": "šeststo pet"
+  },
+  {
+    "number": "606",
+    "slovenian": "šeststo šest"
+  },
+  {
+    "number": "607",
+    "slovenian": "šeststo sedem"
+  },
+  {
+    "number": "608",
+    "slovenian": "šeststo osem"
+  },
+  {
+    "number": "609",
+    "slovenian": "šeststo devet"
+  },
+  {
+    "number": "610",
+    "slovenian": "šeststo deset"
+  },
+  {
+    "number": "611",
+    "slovenian": "šeststo enajst"
+  },
+  {
+    "number": "612",
+    "slovenian": "šeststo dvanajst"
+  },
+  {
+    "number": "613",
+    "slovenian": "šeststo trinajst"
+  },
+  {
+    "number": "614",
+    "slovenian": "šeststo štirinajst"
+  },
+  {
+    "number": "615",
+    "slovenian": "šeststo petnajst"
+  },
+  {
+    "number": "616",
+    "slovenian": "šeststo šestnajst"
+  },
+  {
+    "number": "617",
+    "slovenian": "šeststo sedemnajst"
+  },
+  {
+    "number": "618",
+    "slovenian": "šeststo osemnajst"
+  },
+  {
+    "number": "619",
+    "slovenian": "šeststo devetnajst"
+  },
+  {
+    "number": "620",
+    "slovenian": "šeststo dvajset"
+  },
+  {
+    "number": "621",
+    "slovenian": "šeststo enaindvajset"
+  },
+  {
+    "number": "622",
+    "slovenian": "šeststo dvaindvajset"
+  },
+  {
+    "number": "623",
+    "slovenian": "šeststo triindvajset"
+  },
+  {
+    "number": "624",
+    "slovenian": "šeststo štiriindvajset"
+  },
+  {
+    "number": "625",
+    "slovenian": "šeststo petindvajset"
+  },
+  {
+    "number": "626",
+    "slovenian": "šeststo šestindvajset"
+  },
+  {
+    "number": "627",
+    "slovenian": "šeststo sedemindvajset"
+  },
+  {
+    "number": "628",
+    "slovenian": "šeststo osemindvajset"
+  },
+  {
+    "number": "629",
+    "slovenian": "šeststo devetindvajset"
+  },
+  {
+    "number": "630",
+    "slovenian": "šeststo trideset"
+  },
+  {
+    "number": "631",
+    "slovenian": "šeststo enaintrideset"
+  },
+  {
+    "number": "632",
+    "slovenian": "šeststo dvaintrideset"
+  },
+  {
+    "number": "633",
+    "slovenian": "šeststo triintrideset"
+  },
+  {
+    "number": "634",
+    "slovenian": "šeststo štiriintrideset"
+  },
+  {
+    "number": "635",
+    "slovenian": "šeststo petintrideset"
+  },
+  {
+    "number": "636",
+    "slovenian": "šeststo šestintrideset"
+  },
+  {
+    "number": "637",
+    "slovenian": "šeststo sedemintrideset"
+  },
+  {
+    "number": "638",
+    "slovenian": "šeststo osemintrideset"
+  },
+  {
+    "number": "639",
+    "slovenian": "šeststo devetintrideset"
+  },
+  {
+    "number": "640",
+    "slovenian": "šeststo štirideset"
+  },
+  {
+    "number": "641",
+    "slovenian": "šeststo enainštirideset"
+  },
+  {
+    "number": "642",
+    "slovenian": "šeststo dvaenštirideset"
+  },
+  {
+    "number": "643",
+    "slovenian": "šeststo trienštirideset"
+  },
+  {
+    "number": "644",
+    "slovenian": "šeststo štirienštirideset"
+  },
+  {
+    "number": "645",
+    "slovenian": "šeststo petenštirideset"
+  },
+  {
+    "number": "646",
+    "slovenian": "šeststo šestenštirideset"
+  },
+  {
+    "number": "647",
+    "slovenian": "šeststo sedemenštirideset"
+  },
+  {
+    "number": "648",
+    "slovenian": "šeststo osemenštirideset"
+  },
+  {
+    "number": "649",
+    "slovenian": "šeststo devetenštirideset"
+  },
+  {
+    "number": "650",
+    "slovenian": "šeststo petdeset"
+  },
+  {
+    "number": "651",
+    "slovenian": "šeststo enainpetdeset"
+  },
+  {
+    "number": "652",
+    "slovenian": "šeststo dvainpetdeset"
+  },
+  {
+    "number": "653",
+    "slovenian": "šeststo tripetdeset"
+  },
+  {
+    "number": "654",
+    "slovenian": "šeststo štiripetdeset"
+  },
+  {
+    "number": "655",
+    "slovenian": "šeststo petipetdeset"
+  },
+  {
+    "number": "656",
+    "slovenian": "šeststo šestipetdeset"
+  },
+  {
+    "number": "657",
+    "slovenian": "šeststo sedemipetdeset"
+  },
+  {
+    "number": "658",
+    "slovenian": "šeststo osemipetdeset"
+  },
+  {
+    "number": "659",
+    "slovenian": "šeststo devetipetdeset"
+  },
+  {
+    "number": "660",
+    "slovenian": "šeststo šestdeset"
+  },
+  {
+    "number": "661",
+    "slovenian": "šeststo enainšestdeset"
+  },
+  {
+    "number": "662",
+    "slovenian": "šeststo dvainšestdeset"
+  },
+  {
+    "number": "663",
+    "slovenian": "šeststo triinšestdeset"
+  },
+  {
+    "number": "664",
+    "slovenian": "šeststo štiriinšestdeset"
+  },
+  {
+    "number": "665",
+    "slovenian": "šeststo petinšestdeset"
+  },
+  {
+    "number": "666",
+    "slovenian": "šeststo šestinšestdeset"
+  },
+  {
+    "number": "667",
+    "slovenian": "šeststo sedeminšestdeset"
+  },
+  {
+    "number": "668",
+    "slovenian": "šeststo oseminšestdeset"
+  },
+  {
+    "number": "669",
+    "slovenian": "šeststo devetinšestdeset"
+  },
+  {
+    "number": "670",
+    "slovenian": "šeststo sedemdeset"
+  },
+  {
+    "number": "671",
+    "slovenian": "šeststo enainsedemdeset"
+  },
+  {
+    "number": "672",
+    "slovenian": "šeststo dvainsedemdeset"
+  },
+  {
+    "number": "673",
+    "slovenian": "šeststo triinsedemdeset"
+  },
+  {
+    "number": "674",
+    "slovenian": "šeststo štiriinsedemdeset"
+  },
+  {
+    "number": "675",
+    "slovenian": "šeststo petinsedemdeset"
+  },
+  {
+    "number": "676",
+    "slovenian": "šeststo šestinsedemdeset"
+  },
+  {
+    "number": "677",
+    "slovenian": "šeststo sedemininsedemdeset"
+  },
+  {
+    "number": "678",
+    "slovenian": "šeststo oseminsedemdeset"
+  },
+  {
+    "number": "679",
+    "slovenian": "šeststo devetininsedemdeset"
+  },
+  {
+    "number": "680",
+    "slovenian": "šeststo osemdeset"
+  },
+  {
+    "number": "681",
+    "slovenian": "šeststo enainosemdeset"
+  },
+  {
+    "number": "682",
+    "slovenian": "šeststo dvainosemdeset"
+  },
+  {
+    "number": "683",
+    "slovenian": "šeststo triinosemdeset"
+  },
+  {
+    "number": "684",
+    "slovenian": "šeststo štiriinosemdeset"
+  },
+  {
+    "number": "685",
+    "slovenian": "šeststo petinosemdeset"
+  },
+  {
+    "number": "686",
+    "slovenian": "šeststo šestinosemdeset"
+  },
+  {
+    "number": "687",
+    "slovenian": "šeststo sedemininosemdeset"
+  },
+  {
+    "number": "688",
+    "slovenian": "šeststo oseminosemdeset"
+  },
+  {
+    "number": "689",
+    "slovenian": "šeststo devetinosemdeset"
+  },
+  {
+    "number": "690",
+    "slovenian": "šeststo devetdeset"
+  },
+  {
+    "number": "691",
+    "slovenian": "šeststo enaindevetdeset"
+  },
+  {
+    "number": "692",
+    "slovenian": "šeststo dvaindevetdeset"
+  },
+  {
+    "number": "693",
+    "slovenian": "šeststo triindevetdeset"
+  },
+  {
+    "number": "694",
+    "slovenian": "šeststo štiriindevetdeset"
+  },
+  {
+    "number": "695",
+    "slovenian": "šeststo petindevetdeset"
+  },
+  {
+    "number": "696",
+    "slovenian": "šeststo šestindevetdeset"
+  },
+  {
+    "number": "697",
+    "slovenian": "šeststo sedeminindevetdeset"
+  },
+  {
+    "number": "698",
+    "slovenian": "šeststo osemindevetdeset"
+  },
+  {
+    "number": "699",
+    "slovenian": "šeststo devetindevetdeset"
+  },
+  {
+    "number": "700",
+    "slovenian": "sedemsto"
+  },
+  {
+    "number": "900",
+    "slovenian": "devetsto"
+  },
+  {
+    "number": "901",
+    "slovenian": "devetsto ena"
+  },
+  {
+    "number": "902",
+    "slovenian": "devetsto dve"
+  },
+  {
+    "number": "903",
+    "slovenian": "devetsto tri"
+  },
+  {
+    "number": "904",
+    "slovenian": "devetsto štiri"
+  },
+  {
+    "number": "905",
+    "slovenian": "devetsto pet"
+  },
+  {
+    "number": "906",
+    "slovenian": "devetsto šest"
+  },
+  {
+    "number": "907",
+    "slovenian": "devetsto sedem"
+  },
+  {
+    "number": "908",
+    "slovenian": "devetsto osem"
+  },
+  {
+    "number": "909",
+    "slovenian": "devetsto devet"
+  },
+  {
+    "number": "910",
+    "slovenian": "devetsto deset"
+  },
+  {
+    "number": "911",
+    "slovenian": "devetsto enajst"
+  },
+  {
+    "number": "912",
+    "slovenian": "devetsto dvanajst"
+  },
+  {
+    "number": "913",
+    "slovenian": "devetsto trinajst"
+  },
+  {
+    "number": "914",
+    "slovenian": "devetsto štirinajst"
+  },
+  {
+    "number": "915",
+    "slovenian": "devetsto petnajst"
+  },
+  {
+    "number": "916",
+    "slovenian": "devetsto šestnajst"
+  },
+  {
+    "number": "917",
+    "slovenian": "devetsto sedemnajst"
+  },
+  {
+    "number": "918",
+    "slovenian": "devetsto osemnajst"
+  },
+  {
+    "number": "919",
+    "slovenian": "devetsto devetnajst"
+  },
+  {
+    "number": "920",
+    "slovenian": "devetsto dvajset"
+  },
+  {
+    "number": "921",
+    "slovenian": "devetsto enaindvajset"
+  },
+  {
+    "number": "922",
+    "slovenian": "devetsto dvaindvajset"
+  },
+  {
+    "number": "923",
+    "slovenian": "devetsto triindvajset"
+  },
+  {
+    "number": "924",
+    "slovenian": "devetsto štiriindvajset"
+  },
+  {
+    "number": "925",
+    "slovenian": "devetsto petindvajset"
+  },
+  {
+    "number": "926",
+    "slovenian": "devetsto šestindvajset"
+  },
+  {
+    "number": "927",
+    "slovenian": "devetsto sedemindvajset"
+  },
+  {
+    "number": "928",
+    "slovenian": "devetsto osemindvajset"
+  },
+  {
+    "number": "929",
+    "slovenian": "devetsto devetindvajset"
+  },
+  {
+    "number": "930",
+    "slovenian": "devetsto trideset"
+  },
+  {
+    "number": "931",
+    "slovenian": "devetsto enaintrideset"
+  },
+  {
+    "number": "932",
+    "slovenian": "devetsto dvaintrideset"
+  },
+  {
+    "number": "933",
+    "slovenian": "devetsto triintrideset"
+  },
+  {
+    "number": "934",
+    "slovenian": "devetsto štiriintrideset"
+  },
+  {
+    "number": "935",
+    "slovenian": "devetsto petintrideset"
+  },
+  {
+    "number": "936",
+    "slovenian": "devetsto šestintrideset"
+  },
+  {
+    "number": "937",
+    "slovenian": "devetsto sedemintrideset"
+  },
+  {
+    "number": "938",
+    "slovenian": "devetsto osemintrideset"
+  },
+  {
+    "number": "939",
+    "slovenian": "devetsto devetintrideset"
+  },
+  {
+    "number": "940",
+    "slovenian": "devetsto štirideset"
+  },
+  {
+    "number": "941",
+    "slovenian": "devetsto enainštirideset"
+  },
+  {
+    "number": "942",
+    "slovenian": "devetsto dvaenštirideset"
+  },
+  {
+    "number": "943",
+    "slovenian": "devetsto trienštirideset"
+  },
+  {
+    "number": "944",
+    "slovenian": "devetsto štirienštirideset"
+  },
+  {
+    "number": "945",
+    "slovenian": "devetsto petenštirideset"
+  },
+  {
+    "number": "946",
+    "slovenian": "devetsto šestnštirideset"
+  },
+  {
+    "number": "947",
+    "slovenian": "devetsto sedemnštirideset"
+  },
+  {
+    "number": "948",
+    "slovenian": "devetsto oseminštirideset"
+  },
+  {
+    "number": "949",
+    "slovenian": "devetsto devetnštirideset"
+  },
+  {
+    "number": "950",
+    "slovenian": "devetsto petdeset"
+  },
+  {
+    "number": "951",
+    "slovenian": "devetsto enainpetdeset"
+  },
+  {
+    "number": "952",
+    "slovenian": "devetsto dvainpetdeset"
+  },
+  {
+    "number": "953",
+    "slovenian": "devetsto triinpetdeset"
+  },
+  {
+    "number": "954",
+    "slovenian": "devetsto štiriinpetdeset"
+  },
+  {
+    "number": "955",
+    "slovenian": "devetsto petinpetdeset"
+  },
+  {
+    "number": "956",
+    "slovenian": "devetsto šestinpetdeset"
+  },
+  {
+    "number": "957",
+    "slovenian": "devetsto sedeminpetdeset"
+  },
+  {
+    "number": "958",
+    "slovenian": "devetsto oseminpetdeset"
+  },
+  {
+    "number": "959",
+    "slovenian": "devetsto devetinpetdeset"
+  },
+  {
+    "number": "960",
+    "slovenian": "devetsto šestdeset"
+  },
+  {
+    "number": "961",
+    "slovenian": "devetsto enainšestdeset"
+  },
+  {
+    "number": "962",
+    "slovenian": "devetsto dvainšestdeset"
+  },
+  {
+    "number": "963",
+    "slovenian": "devetsto triinšestdeset"
+  },
+  {
+    "number": "964",
+    "slovenian": "devetsto štiriinšestdeset"
+  },
+  {
+    "number": "965",
+    "slovenian": "devetsto petinšestdeset"
+  },
+  {
+    "number": "966",
+    "slovenian": "devetsto šestinšestdeset"
+  },
+  {
+    "number": "967",
+    "slovenian": "devetsto sedeminšestdeset"
+  },
+  {
+    "number": "968",
+    "slovenian": "devetsto oseminšestdeset"
+  },
+  {
+    "number": "969",
+    "slovenian": "devetsto devetinšestdeset"
+  },
+  {
+    "number": "970",
+    "slovenian": "devetsto sedemdeset"
+  },
+  {
+    "number": "971",
+    "slovenian": "devetsto enainsedemdeset"
+  },
+  {
+    "number": "972",
+    "slovenian": "devetsto dvain sedemdeset"
+  },
+  {
+    "number": "973",
+    "slovenian": "devetsto triin sedemdeset"
+  },
+  {
+    "number": "974",
+    "slovenian": "devetsto štiriin sedemdeset"
+  },
+  {
+    "number": "975",
+    "slovenian": "devetsto petin sedemdeset"
+  },
+  {
+    "number": "976",
+    "slovenian": "devetsto šestin sedemdeset"
+  },
+  {
+    "number": "977",
+    "slovenian": "devetsto sedemin sedemdeset"
+  },
+  {
+    "number": "978",
+    "slovenian": "devetsto osemin sedemdeset"
+  },
+  {
+    "number": "979",
+    "slovenian": "devetsto devetin sedemdeset"
+  },
+  {
+    "number": "980",
+    "slovenian": "devetsto osemdeset"
+  },
+  {
+    "number": "981",
+    "slovenian": "devetsto enainosemdeset"
+  },
+  {
+    "number": "982",
+    "slovenian": "devetsto dvainosemdeset"
+  },
+  {
+    "number": "983",
+    "slovenian": "devetsto triinosemdeset"
+  },
+  {
+    "number": "984",
+    "slovenian": "devetsto štiriinosemdeset"
+  },
+  {
+    "number": "985",
+    "slovenian": "devetsto petinosemdeset"
+  },
+  {
+    "number": "986",
+    "slovenian": "devetsto šestinosemdeset"
+  },
+  {
+    "number": "987",
+    "slovenian": "devetsto sedeminosemdeset"
+  },
+  {
+    "number": "988",
+    "slovenian": "devetsto oseminosemdeset"
+  },
+  {
+    "number": "989",
+    "slovenian": "devetsto devetinosemdeset"
+  },
+  {
+    "number": "990",
+    "slovenian": "devetsto devetdeset"
+  },
+  {
+    "number": "991",
+    "slovenian": "devetsto enaindevetdeset"
+  },
+  {
+    "number": "992",
+    "slovenian": "devetsto dvaindevetdeset"
+  },
+  {
+    "number": "993",
+    "slovenian": "devetsto triindevetdeset"
+  },
+  {
+    "number": "994",
+    "slovenian": "devetsto štiriindevetdeset"
+  },
+  {
+    "number": "995",
+    "slovenian": "devetsto petindevetdeset"
+  },
+  {
+    "number": "996",
+    "slovenian": "devetsto šestindevetdeset"
+  },
+  {
+    "number": "997",
+    "slovenian": "devetsto sedemindevetdeset"
+  },
+  {
+    "number": "998",
+    "slovenian": "devetsto osemindevetdeset"
+  },
+  {
+    "number": "999",
+    "slovenian": "devetsto devetindevetdeset"
+  },
+  {
+    "number": "1000",
+    "slovenian": "tisoč"
+  }
+]

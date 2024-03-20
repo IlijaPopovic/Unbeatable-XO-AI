@@ -1,0 +1,94 @@
+[
+  {
+    "slovenian": "Pika",
+    "oznaka": "."
+  },
+  {
+    "slovenian": "Vprašaj",
+    "oznaka": "?"
+  },
+  {
+    "slovenian": "Klicaj",
+    "oznaka": "!"
+  },
+  {
+    "slovenian": "Vejica",
+    "oznaka": ","
+  },
+  {
+    "slovenian": "Podpičje",
+    "oznaka": ";"
+  },
+  {
+    "slovenian": "Dvopičje",
+    "oznaka": ":"
+  },
+  {
+    "slovenian": "Pomišljaj",
+    "oznaka": "–"
+  },
+  {
+    "slovenian": "Vezaj",
+    "oznaka": "-"
+  },
+  {
+    "slovenian": "Tripičje",
+    "oznaka": "..."
+  },
+  {
+    "slovenian": "Narekovaji",
+    "oznaka": " \" \" "
+  },
+  {
+    "slovenian": "Oklepaji",
+    "oznaka": "( )"
+  },
+  {
+    "slovenian": "Minus",
+    "oznaka": "-"
+  },
+  {
+    "slovenian": "Plus",
+    "oznaka": "+"
+  },
+  {
+    "slovenian": "Deljeno s/z",
+    "oznaka": ":"
+  },
+  {
+    "slovenian": "Krat",
+    "oznaka": "X"
+  },
+  {
+    "slovenian": "Je enako",
+    "oznaka": "="
+  },
+  {
+    "slovenian": "Odstotek",
+    "oznaka": "%"
+  },
+  {
+    "slovenian": "Neskončno",
+    "oznaka": "∞"
+  },
+  {
+    "slovenian": "Koren",
+    "oznaka": "\u221A"
+  },
+  {
+    "slovenian": "Tru ulomljeno z pet",
+    "oznaka": "3/5"
+  },
+  {
+    "slovenian": "Enačba",
+    "oznaka": "V = A * h"
+  },
+  {
+    "slovenian": "Kvadratni meter",
+    "oznaka": "m\u00B2"
+  },
+  {
+    "slovenian": "Kubični meter",
+    "oznaka": "m\u00B3"
+  }
+]
