@@ -1,92 +1,38 @@
-/* BODY */
-body {
-  margin: 0;
-  padding: 0;
-  background-color: black;
-  font-family: Arial, Helvetica, sans-serif;
-  color: white;
-  /* slection */
-  -webkit-user-select: none; /* Safari */
-  -moz-user-select: none; /* Firefox */
-  -ms-user-select: none; /* IE10+/Edge */
-  user-select: none; /* Standard */
+.App {
+  text-align: center;
 }
-/* BOARD */
-.board {
-  display: grid;
-  width: 100vw;
-  height: 100vh;
-  justify-content: center;
-  align-content: center;
-  justify-items: center;
-  align-items: center;
-  grid-template-columns: repeat(3, auto);
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
 }
-/* CELLS */
-.cell {
-  border: 1px white solid;
-  width: 100px;
-  height: 100px;
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  cursor: pointer;
-  font-size: 60px;
-}
-.cell:first-child,
-.cell:nth-child(2),
-.cell:nth-child(3) {
-  border-top: none;
-}
-.cell:first-child,
-.cell:nth-child(4),
-.cell:nth-child(7) {
-  border-left: none;
-}
-.cell:first-child,
-.cell:nth-child(4),
-.cell:nth-child(7) {
-  border-left: none;
-}
-.cell:nth-child(3),
-.cell:nth-child(6),
-.cell:nth-child(9) {
-  border-right: none;
-}
-.cell:nth-child(7),
-.cell:nth-child(8),
-.cell:nth-child(9) {
-  border-bottom: none;
-}
-.cell.X,
-.cell.O {
-  cursor: not-allowed;
-}
-/* MESSAGE */
-.message {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(0, 0, 0, 0.9);
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-size: 2rem;
-  font-weight: bold;
   flex-direction: column;
-}
-.message.show {
-  display: flex;
-}
-.message button {
-  font-size: 1.5rem;
-  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
   color: white;
-  cursor: pointer;
-  background: none;
-  border: white 2px solid;
-  padding: 15px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
