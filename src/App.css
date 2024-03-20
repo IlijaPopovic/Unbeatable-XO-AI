@@ -1,166 +1,92 @@
-/* BASIC */
+/* BODY */
 body {
   margin: 0;
   padding: 0;
-  font-family: courier;
-  background: #fed80091;
-  user-select: none;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  /* slection */
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
 }
-h1 {
-  margin: 0;
-  padding: 10px;
-}
-.input {
-  margin: 40px;
-}
-.bold {
-  font-weight: bolds;
-}
-/* SETTINGS */
-.settings {
-  position: fixed;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  top: 10px;
-  right: 10px;
-  background-color: magenta;
-  border: 5px solid black;
-  border-radius: 50px;
-  height: 50px;
-  width: 50px;
-  font-size: 25px;
-}
-.settings-panel {
-  position: fixed;
-  display: none;
-  justify-content: space-around;
-  align-items: start;
-  flex-direction: column;
-  top: 10px;
-  right: 10px;
-  background-color: magenta;
-  border: 5px solid black;
-  border-radius: 30px;
-  padding: 10px;
-  font-size: 15px;
-  z-index: 1;
-  animation: fadeInScaleUp 0.2s ease-out forwards;
-  /* width: 95vw;
-  box-sizing: border-box; */
-  /* height: 50vh; 
-  max-width: 300px;
-  max-height: 300px; */
-}
-.settings-panel-item {
-  margin: 5px;
-}
-.settings:hover + .settings-panel,
-.settings-panel:hover {
-  display: flex;
-}
-/* CARDS */
-.app {
+/* BOARD */
+.board {
+  display: grid;
+  width: 100vw;
   height: 100vh;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+  grid-template-columns: repeat(3, auto);
+}
+/* CELLS */
+.cell {
+  border: 1px white solid;
+  width: 100px;
+  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
-}
-.cards {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-  font-size: 10px;
-  text-align: center;
-}
-.fade {
-  opacity: 0;
-}
-
-.minus,
-.plus {
-  width: 70px;
-  height: 70px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border: black 5px solid;
-  border-radius: 60px;
-  font-size: 30px;
-  margin: 30px;
   cursor: pointer;
+  font-size: 60px;
 }
-.plus {
-  background-color: rgb(0, 140, 255);
+.cell:first-child,
+.cell:nth-child(2),
+.cell:nth-child(3) {
+  border-top: none;
 }
-.minus {
-  background-color: rgb(255, 0, 55);
+.cell:first-child,
+.cell:nth-child(4),
+.cell:nth-child(7) {
+  border-left: none;
 }
-
-.flip-card {
-  background-color: transparent;
-  width: 250px;
-  height: 200px;
-  perspective: 1000px;
-  border-radius: 20px;
-  transition: opacity 0.3s ease-in-out;
+.cell:first-child,
+.cell:nth-child(4),
+.cell:nth-child(7) {
+  border-left: none;
 }
-
-.flip-card-inner {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  transition: transform 0.5s;
-  transform-style: preserve-3d;
+.cell:nth-child(3),
+.cell:nth-child(6),
+.cell:nth-child(9) {
+  border-right: none;
 }
-
-.flip-card:hover .flip-card-inner {
-  transform: rotateY(180deg);
+.cell:nth-child(7),
+.cell:nth-child(8),
+.cell:nth-child(9) {
+  border-bottom: none;
 }
-
-.flip-card-front,
-.flip-card-back {
-  box-sizing: border-box;
-  border: black 5px solid;
-  border-radius: 20px;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden; /* Safari */
-  backface-visibility: hidden;
-  display: flex;
-  align-items: center;
+.cell.X,
+.cell.O {
+  cursor: not-allowed;
+}
+/* MESSAGE */
+.message {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.9);
   justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  flex-direction: column;
 }
-
-.flip-card-front {
-  background-color: #fe218b;
-  color: black;
+.message.show {
+  display: flex;
 }
-
-.flip-card-back {
-  background-color: #25fe21;
-  color: black;
-  transform: rotateY(180deg);
-}
-/* RESPONSIVE */
-@media only screen and (max-width: 600px) {
-  .cards {
-    flex-direction: column;
-  }
-  .app {
-    height: 90vh;
-  }
-}
-
-@keyframes fadeInScaleUp {
-  from {
-    opacity: 0;
-    transform: scale(0.5) translate(40%, -40%);
-  }
-  to {
-    opacity: 1;
-    transform: scale(1) translate(0, 0);
-  }
+.message button {
+  font-size: 1.5rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  cursor: pointer;
+  background: none;
+  border: white 2px solid;
+  padding: 15px;
 }
